@@ -217,3 +217,223 @@ mini laser printer. Contribute to Elias55745/mini-laser-printer development by c
 Wireless video transfer using filtered edge detected feed over ESP-NOW - Sparkadium/Edge-Video-Over-ESP-NOW
 
 ---
+### [GitHub - viettran-edgeAI/Jetson_case_os · GitHub](https://github.com/viettran-edgeAI/Jetson_case_os)
+
+![preview](https://opengraph.githubassets.com/176bb571de69252ae3db0e90967273381cab84d656a34e79b712552908876b83/viettran-edgeAI/Jetson_case_os)
+
+Contribute to viettran-edgeAI/Jetson_case_os development by creating an account on GitHub.
+
+---
+### [GitHub - iandchasse/de-link: Hub for information regarding the "de-link" development kit, based on the ESP32-S3. Offers hardware access to 24-pin e-paper communication over SPI, 4-bit SDMMC, USB-C, button array, and optional modules for series LED driver and battery overcharge/discharge · GitHub](https://github.com/iandchasse/de-link)
+
+![preview](https://opengraph.githubassets.com/a62ed4079b674c12fe53d467de9079359f8c8a73c350bc7bb85da7630bf405f7/iandchasse/de-link)
+
+Hub for information regarding the "de-link" development kit, based on the ESP32-S3. Offers hardware access to 24-pin e-paper communication over SPI, 4-bit SDMMC, USB-C, button array, and optional modules for series LED driver and battery overcharge/discharge - iandchasse/de-link
+
+---
+### [GitHub - dungngminh/simutil: Cross platform utility TUI app for launching iOS simulators / Android emulators, discover physical devices, ADB tools and more · GitHub](https://github.com/dungngminh/simutil)
+
+![preview](https://opengraph.githubassets.com/e7d7e41855e4c2ca1316660f41f653f5fb5d8d6ea4c852f86467417b4045b8fc/dungngminh/simutil)
+
+Cross platform utility TUI app for launching iOS simulators / Android emulators, discover physical devices, ADB tools and more - dungngminh/simutil
+
+---
+### [GitHub - kleinnconrad/RC100: Bau eines 1:10 Onroad-RC-Autos für sichere und wiederholbare Speedruns jenseits der 100 km/h-Marke. Das Projekt wird strikt budgetorientiert und mit Entry-Level-Komponenten umgesetzt. · GitHub](https://github.com/kleinnconrad/RC100)
+
+![preview](https://opengraph.githubassets.com/092fd9dbb8a4c3d9768be3f6a79d62b03a99ee2d35e92cf562d7110c3ec3019d/kleinnconrad/RC100)
+
+Bau eines 1:10 Onroad-RC-Autos für sichere und wiederholbare Speedruns jenseits der 100 km/h-Marke. Das Projekt wird strikt budgetorientiert und mit Entry-Level-Komponenten umgesetzt. - kleinnconrad/RC100
+
+---
+### [GitHub - kleinnconrad/carten_telemetrie: Entwicklung einer IoT-Cloud-Telemetrie für den Carten T410R. Das System erfasst Motor-/ESC-Temperatur, Kardanwellen-Drehzahl sowie GPS-Daten und streamt diese per LTE in Echtzeit an ein Cloud-Dashboard. Inkl. SD-Karten-Fallback und isolierter Stromversorgung. · GitHub](https://github.com/kleinnconrad/carten_telemetrie)
+
+![preview](https://opengraph.githubassets.com/43f28fc0eccb49f93c1f819eae826f9df060ed84514a94348911281ebfb59438/kleinnconrad/carten_telemetrie)
+
+Entwicklung einer IoT-Cloud-Telemetrie für den Carten T410R. Das System erfasst Motor-/ESC-Temperatur, Kardanwellen-Drehzahl sowie GPS-Daten und streamt diese per LTE in Echtzeit an ein Cloud-Dashboard. Inkl. SD-Karten-Fallback und isolierter Stromversorgung. - kleinnconrad/carten_telemetrie
+
+---
+### [GitHub - g-projectech/dilution-eye: I created this tool to solve a problem: it’s hard to find reliable data on dilution, and when it comes to non-U.S. stocks, free visual tools are simply nowhere to be found · GitHub](https://github.com/g-projectech/dilution-eye)
+
+![preview](https://opengraph.githubassets.com/7c76e500becf1c3475dc8190fafa5bec6f7f8b6f86c19a3d1258227e326054fa/g-projectech/dilution-eye)
+
+I created this tool to solve a problem: it’s hard to find reliable data on dilution, and when it comes to non-U.S. stocks, free visual tools are simply nowhere to be found - g-projectech/dilution-eye
+
+---
+### [GitHub - HexLions/pi-paas: The tiniest self-hosted PaaS for your Raspberry Pi · GitHub](https://github.com/HexLions/pi-paas)
+
+![preview](https://opengraph.githubassets.com/5fbc5252abf4681703a868089d5b151fb2c8d3447c4bdf01456ba286bda757e6/HexLions/pi-paas)
+
+The tiniest self-hosted PaaS for your Raspberry Pi - HexLions/pi-paas
+
+---
+### [GitHub - antodale/CompositeVideoSynth: ESP32 based video synth that generates composite video signal, the visuals are controlled by serial communication · GitHub](https://github.com/antodale/CompositeVideoSynth)
+
+![preview](https://opengraph.githubassets.com/ebf9555f8efd4e0c0dcf0bc6b9b38a526c833220e361596604cd3487865dda60/antodale/CompositeVideoSynth)
+
+ESP32 based video synth that generates composite video signal, the visuals are controlled by serial communication - antodale/CompositeVideoSynth
+
+---
+### [GitHub - i12bp8/TagTinker: Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl · GitHub](https://github.com/i12bp8/TagTinker)
+
+![preview](https://opengraph.githubassets.com/a6383eb87c419443d5e2a5e7f9fb146b288fce12493a6d3164be8e6b0787ed92/i12bp8/TagTinker)
+
+Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl - i12bp8/TagTinker
+
+---
+### [GitHub - b1scuitdev/E07xESP32C5: E07xESP32C5 is a Sub-GHz & ESP32-C5 module for Flipper Zero. It includes an EBYTE E07-433M20S (PA+LNA), microSD slot, UART pads for GPS, 5V output and a 4-layer PCB with solid ground planes for RF performance. · GitHub](https://github.com/b1scuitdev/E07xESP32C5)
+
+![preview](https://opengraph.githubassets.com/394d1c4a204e907683f29a99116d7bbec8db0a6a4e0149f89a50ca5f496a5e46/b1scuitdev/E07xESP32C5)
+
+E07xESP32C5 is a Sub-GHz & ESP32-C5 module for Flipper Zero. It includes an EBYTE E07-433M20S (PA+LNA), microSD slot, UART pads for GPS, 5V output and a 4-layer PCB with solid ground planes for RF performance. - b1scuitdev/E07xESP32C5
+
+---
+### [GitHub - lollokara/BugBuster: A not so easy Universal Debugger · GitHub](https://github.com/lollokara/BugBuster)
+
+![preview](https://opengraph.githubassets.com/73658a02e75ab52959ce4d555ff53a6af5cf28673015eba46ec3f74abdd887c6/lollokara/BugBuster)
+
+A not so easy Universal Debugger. Contribute to lollokara/BugBuster development by creating an account on GitHub.
+
+---
+### [GitHub - yami-five/Euzebia3D · GitHub](https://github.com/yami-five/Euzebia3D)
+
+![preview](https://opengraph.githubassets.com/d6bed6790b0303c6fc9e57e20a8dcf0c45017c25d60f94333ba01c9cb3e89715/yami-five/Euzebia3D)
+
+Contribute to yami-five/Euzebia3D development by creating an account on GitHub.
+
+---
+### [GitHub - StaRky33/ZigbeeMacropad: This is a custom made Zigbee Macropad made with CherryMX switches and an ESP32C6 (nanoESP32-C6-N8) · GitHub](https://github.com/StaRky33/ZigbeeMacropad)
+
+![preview](https://opengraph.githubassets.com/5f921658b174c144270206dab64e2e8d1bb743adfbeb513dfe8ea92a9a455a67/StaRky33/ZigbeeMacropad)
+
+This is a custom made Zigbee Macropad made with CherryMX switches and an ESP32C6 (nanoESP32-C6-N8) - StaRky33/ZigbeeMacropad
+
+---
+### [GitHub - aagentah/nw_wrld: nw_wrld is an event-driven sequencer for triggering visuals using web technologies. It enables users to scale up audiovisual compositions for prototyping, demos, exhibitions, and live performances. Users code their own visual modules, then orchestrate them using the project's native UI composer. · GitHub](https://github.com/aagentah/nw_wrld)
+
+![preview](https://opengraph.githubassets.com/068582294a107dac5d6fdc1ad7c4c93cfd1748d424be1de5d5665c6875b79cf1/aagentah/nw_wrld)
+
+nw_wrld is an event-driven sequencer for triggering visuals using web technologies. It enables users to scale up audiovisual compositions for prototyping, demos, exhibitions, and live performances. Users code their own visual modules, then orchestrate them using the project's native UI composer. - aagentah/nw_wrld
+
+---
+### [GitHub - keero-io/keero-hardware · GitHub](https://github.com/keero-io/keero-hardware)
+
+![preview](https://opengraph.githubassets.com/ecd333a9e02e2f349c67f10ac824804e3fa5f962209724b13ebc138f91726bae/keero-io/keero-hardware)
+
+Contribute to keero-io/keero-hardware development by creating an account on GitHub.
+
+---
+### [GitHub - PixelRoot32-Game-Engine/PixelRoot32-Game-Engine: PixelRoot32 Game Engine is a lightweight, modular 2D game engine written in C++17 and designed specifically for ESP32 microcontrollers. · GitHub](https://github.com/PixelRoot32-Game-Engine/PixelRoot32-Game-Engine)
+
+![preview](https://opengraph.githubassets.com/d03f31b72dced15f1b3d252896edd288ddecc18ca70ea6044dc581a1f43df69f/PixelRoot32-Game-Engine/PixelRoot32-Game-Engine)
+
+PixelRoot32 Game Engine is a lightweight, modular 2D game engine written in C++17 and designed specifically for ESP32 microcontrollers. - PixelRoot32-Game-Engine/PixelRoot32-Game-Engine
+
+---
+### [GitHub - kritishmohapatra/100_Days_100_IoT_Projects: A 100-day challenge exploring IoT and embedded systems using ESP32, ESP8266, and Raspberry Pi Pico with MicroPython. Each day covers a new sensor or module with complete code, circuit diagram, and explanation. · GitHub](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects)
+
+![preview](https://repository-images.githubusercontent.com/1074035698/f0989a14-1b4f-4fbc-ac74-649af9f99942)
+
+A 100-day challenge exploring IoT and embedded systems using ESP32, ESP8266, and Raspberry Pi Pico with MicroPython. Each day covers a new sensor or module with complete code, circuit diagram, and explanation. - kritishmohapatra/100_Days_100_IoT_Projects
+
+---
+### [GitHub - KMX415/meshpoint: Open-source LoRa base station for Meshtastic/Meshcore. Raspberry Pi + SX1302/SX1303 concentrator — passive multi-channel capture, local dashboard, native TX · GitHub](https://github.com/KMX415/meshpoint)
+
+![preview](https://opengraph.githubassets.com/57ab89a73501bf1c67f325b1e1f348a8c352ee110ff5225f7d88d2247b2c2929/KMX415/meshpoint)
+
+Open-source LoRa base station for Meshtastic/Meshcore. Raspberry Pi + SX1302/SX1303 concentrator — passive multi-channel capture, local dashboard, native TX - KMX415/meshpoint
+
+---
+### [GitHub - shmimel/bee-write-back · GitHub](https://github.com/shmimel/bee-write-back)
+
+![preview](https://opengraph.githubassets.com/adfbc8edb2f281fc7e9996f899c1e3d354f4c2cb0b17c759d76ba0fd867be91c/shmimel/bee-write-back)
+
+Contribute to shmimel/bee-write-back development by creating an account on GitHub.
+
+---
+### [GitHub - vicliu624/trail-mate: Trail Mate is an offline‑first handheld system for GPS navigation, LoRa communication, and real‑time team situational awareness in no‑network environments. · GitHub](https://github.com/vicliu624/trail-mate)
+
+![preview](https://opengraph.githubassets.com/80d3e36c28de42db1b083e356240dfeb997c87f374e77d15517f359a7df78ba5/vicliu624/trail-mate)
+
+Trail Mate is an offline‑first handheld system for GPS navigation, LoRa communication, and real‑time team situational awareness in no‑network environments. - vicliu624/trail-mate
+
+---
+### [Entertain Humans](https://vicliu624.github.io/firmware-market/)
+
+---
+### [GitHub - prtk1910/rpi-film-simulation-camera: Open Source Raspberry-Pi based camera with film simulation profiles similar to popular Fujifilm models. · GitHub](https://github.com/prtk1910/rpi-film-simulation-camera)
+
+![preview](https://opengraph.githubassets.com/c2d422002f8d3943b9f8e16836deed3ac05f52954fc7da5ab6dcbc32b2e22d0a/prtk1910/rpi-film-simulation-camera)
+
+Open Source Raspberry-Pi based camera with film simulation profiles similar to popular Fujifilm models. - prtk1910/rpi-film-simulation-camera
+
+---
+### [GitHub - PrzemekWasinski/PlaneTracker: Live aircraft tracker that receives radio broadcasts from planes via a radio antenna, decodes them on an RPI 4 and shows their position on a radar GUI · GitHub](https://github.com/PrzemekWasinski/PlaneTracker)
+
+![preview](https://opengraph.githubassets.com/e2d8938821386e1f65a0c9b0d243860f1ec1787b3f48b02080caa69ce8f9b70d/PrzemekWasinski/PlaneTracker)
+
+Live aircraft tracker that receives radio broadcasts from planes via a radio antenna, decodes them on an RPI 4 and shows their position on a radar GUI - PrzemekWasinski/PlaneTracker
+
+---
+### [GitHub - PrzemekWasinski/PlaneCam: Motorised camera module for optically tracking planes using their coordinates received over ADS-B · GitHub](https://github.com/PrzemekWasinski/PlaneCam)
+
+![preview](https://opengraph.githubassets.com/d6d07b42731fc98b7d601ace4bc2df95e20d971fa4640d88bcc661b3ac19a65d/PrzemekWasinski/PlaneCam)
+
+Motorised camera module for optically tracking planes using their coordinates received over ADS-B - PrzemekWasinski/PlaneCam
+
+---
+### [GitHub - IQTLabs/SkyScan: Automatically photograph planes that fly by! · GitHub](https://github.com/IQTLabs/SkyScan)
+
+![preview](https://opengraph.githubassets.com/6d1fa59dc8488deca891423d5bdb5f102a7eb3c965d93366e92eb41e97c456ad/IQTLabs/SkyScan)
+
+Automatically photograph planes that fly by! Contribute to IQTLabs/SkyScan development by creating an account on GitHub.
+
+---
+### [GitHub - IQTLabs/edgetech-dump1090-json · GitHub](https://github.com/IQTLabs/edgetech-dump1090-json)
+
+![preview](https://opengraph.githubassets.com/ac6884b691c5967d0b846dad914a1d5d5a3b109aae82ccc30884f2de19e40076/IQTLabs/edgetech-dump1090-json)
+
+Contribute to IQTLabs/edgetech-dump1090-json development by creating an account on GitHub.
+
+---
+### [GitHub - LZ1DPN/DDS-si5351: DDS-si5351 · GitHub](https://github.com/LZ1DPN/DDS-si5351)
+
+![preview](https://opengraph.githubassets.com/f6d057a53306b9e015a5cfea7026be2fb4729e9b27b59963605ef95090a8b5ba/LZ1DPN/DDS-si5351)
+
+DDS-si5351. Contribute to LZ1DPN/DDS-si5351 development by creating an account on GitHub.
+
+---
+### [GitHub - fduflyer/DroneAware-Node-Releases: DroneAware Node Releases repository · GitHub](https://github.com/fduflyer/DroneAware-Node-Releases)
+
+![preview](https://opengraph.githubassets.com/04267c31e83cc29d4247a98388e7c72374d6640d5e8ee8526ba167bb857df294/fduflyer/DroneAware-Node-Releases)
+
+DroneAware Node Releases repository. Contribute to fduflyer/DroneAware-Node-Releases development by creating an account on GitHub.
+
+---
+### [GitHub - jsammarco/FlipperWalkPrint: Print to a bluetooth 2.0 classic pocket thermal receipt printer using a ESP-32 WROOM-DA as a UART bridge · GitHub](https://github.com/jsammarco/FlipperWalkPrint)
+
+![preview](https://opengraph.githubassets.com/20b5073cec729adfeec49db18abd587cac9fdcb46335f30f8215e0690847a2bc/jsammarco/FlipperWalkPrint)
+
+Print to a bluetooth 2.0 classic pocket thermal receipt printer using a ESP-32 WROOM-DA as a UART bridge - jsammarco/FlipperWalkPrint
+
+---
+### [GitHub - danilogcrf2-oss/ESP32Synth: Polyphonic synthesizer with 80+ voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit). · GitHub](https://github.com/danilogcrf2-oss/ESP32Synth)
+
+![preview](https://repository-images.githubusercontent.com/1123417709/d074d772-0466-4ab5-ab2c-8fae0a442e2e)
+
+Polyphonic synthesizer with 80+ voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit). - danilogcrf2-oss/ESP32Synth
+
+---
+### [GitHub - i12bp8/TagTinker: Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl · GitHub](https://github.com/i12bp8/TagTinker)
+
+![preview](https://opengraph.githubassets.com/a6383eb87c419443d5e2a5e7f9fb146b288fce12493a6d3164be8e6b0787ed92/i12bp8/TagTinker)
+
+Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl - i12bp8/TagTinker
+
+---
+### [GitHub - Tech1k/helloesp: A public website hosted on an ESP32. · GitHub](https://github.com/Tech1k/helloesp)
+
+![preview](https://repository-images.githubusercontent.com/508074411/a7a8c77e-4ec5-4fd9-9f0e-40350df6fb2a)
+
+A public website hosted on an ESP32. Contribute to Tech1k/helloesp development by creating an account on GitHub.
+
+---
