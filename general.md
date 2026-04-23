@@ -115,3 +115,13 @@ A collection of useful information for new X banders
 还可以蓝牙连接电脑玩游戏，或者在遥控器上玩自己编写的游戏。
 
 ---
+- https://reddit.com/r/1kAlmese/w/index?utm_medium=android_app&utm_source=share
+---
+### [Блог WIY DRONES — новини, тести та аналітика БпЛА](https://wiydrones.com/blog?fbclid=IwVERTSARWEaxleHRuA2FlbQIxMABzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR5Zu30x2Mmdl88Po908I3UnXcQ4TDa0n8FLDZ1_2O56GVYCzxXdoQ2Z3GsF_A_aem_DQVE0d5MDjdL1sEb1zyk2g&sfnsn=scwspmo)
+
+Огляди платформ WIY, результати випробувань, поради з експлуатації, апдейти ПЗ та кейси застосування дронів у бойових умовах.
+
+---
+### [Toit programming language](https://toitlang.org/)
+
+---

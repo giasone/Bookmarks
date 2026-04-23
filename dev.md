@@ -437,3 +437,52 @@ Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org
 A public website hosted on an ESP32. Contribute to Tech1k/helloesp development by creating an account on GitHub.
 
 ---
+### [GitHub - ArxiaLayer1/Arxia: Offline-first Layer 1 blockchain operating over LoRa, BLE, SMS, and satellite. · GitHub](https://github.com/ArxiaLayer1/Arxia)
+
+![preview](https://opengraph.githubassets.com/991ea6e35e7bc95c8cc8998d3834a2adc71ef35895fe0536d0e6d8c6eaf524dd/ArxiaLayer1/Arxia)
+
+Offline-first Layer 1 blockchain operating over LoRa, BLE, SMS, and satellite. - ArxiaLayer1/Arxia
+
+---
+### [GitHub - Fabryz/siemens-s62-retell-phone: Turn a vintage Siemens S62 telephone into a Raspberry Pi Zero 2 W AI phone powered by Retell AI, with real handset hook control, audio playback, and SIP calling · GitHub](https://github.com/Fabryz/siemens-s62-retell-phone)
+
+![preview](https://opengraph.githubassets.com/2c005badc1df8820bd719f6922e618493156c49a7bea85388cd1f103aa25093d/Fabryz/siemens-s62-retell-phone)
+
+Turn a vintage Siemens S62 telephone into a Raspberry Pi Zero 2 W AI phone powered by Retell AI, with real handset hook control, audio playback, and SIP calling - Fabryz/siemens-s62-retell-phone
+
+---
+### [GitHub - m3y54m/Embedded-Engineering-Roadmap: Comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources · GitHub](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
+
+![preview](https://opengraph.githubassets.com/4a25df2011dc9792089a6c159a061917c36be7b58114151339c31d07d94c5424/m3y54m/Embedded-Engineering-Roadmap)
+
+Comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources - m3y54m/Embedded-Engineering-Roadmap
+
+---
+### [GitHub - 22carlo22/AcousticCam: A DIY esp32 acoustic camera · GitHub](https://github.com/22carlo22/AcousticCam)
+
+![preview](https://opengraph.githubassets.com/c4f970d1a659d27e9f643c43e6284a7405ddfaa86acbf3250a710629083139bc/22carlo22/AcousticCam)
+
+A DIY esp32 acoustic camera. Contribute to 22carlo22/AcousticCam development by creating an account on GitHub.
+
+---
+### [GitHub - wadadawadada/melody_machine: MP3 player and internet radio firmware for the LilyGO T-LoRa Pager (ESP32-S3) · GitHub](https://github.com/wadadawadada/melody_machine)
+
+![preview](https://opengraph.githubassets.com/ffcd7e61d537eb2810507e8b40aa696503c38d217b00fbad3382586cb93d099a/wadadawadada/melody_machine)
+
+MP3 player and internet radio firmware for the LilyGO T-LoRa Pager (ESP32-S3) - wadadawadada/melody_machine
+
+---
+### [GitHub - jsammarco/Bambu-Cloud-Monitor: Bambu Lab cloud printer monitor using MQTT (Python & Flipper Zero App) · GitHub](https://github.com/jsammarco/Bambu-Cloud-Monitor)
+
+![preview](https://opengraph.githubassets.com/c1413fa42b3f636d77fe3c08c859363f71395dc4efe291a85c97666d56136f52/jsammarco/Bambu-Cloud-Monitor)
+
+Bambu Lab cloud printer monitor using MQTT (Python & Flipper Zero App) - jsammarco/Bambu-Cloud-Monitor
+
+---
+### [GitHub - remiblokker/CadMust-Neo: KiCad placement optimizer plugin using simulated annealing · GitHub](https://github.com/remiblokker/CadMust-Neo)
+
+![preview](https://opengraph.githubassets.com/67d79944541aa7eaca19cddb9905a7da6d3d2c0fdb0f0442ecd3ff9641574dac/remiblokker/CadMust-Neo)
+
+KiCad placement optimizer plugin using simulated annealing - remiblokker/CadMust-Neo
+
+---
