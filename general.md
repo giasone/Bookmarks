@@ -23,3 +23,17 @@ Learn to build production-grade multi-agent AI systems using LangGraph for workf
 One of the simpler designs for an antenna is a 1/4 lambda antenna with ground reflectors. Without the right equipment it can be hard to get it just right as the assembly has to be quite precise to get it to operate at the correct frequency. It would be a lot easier if there was…
 
 ---
+### [Atomic Sandwich](https://atomicsandwich.com/blog/poor_mans_polaroid)
+
+Custom Lights and a Blog About DIY Electronics
+
+---
+### [Crowdfunding Success - Was it worth it? | atomic14](https://www.atomic14.com/2025/07/21/crowd-funding-retro)
+
+![preview](https://www.atomic14.com/assets/article_images/2025-07-21/d01a9ace6ba37753c1bef7678d5a9e7b.gif)
+
+I embarked on a thrilling adventure of turning a nifty idea into a tangible product — the ESP32 Rainbow, a Sinclair Spectrum-inspired gadget that merges retro vibes with modern tech. With the brain...
+
+---
+- https://www.reddit.com/r/raspberry_pi/s/pJZpNhuU5H
+---

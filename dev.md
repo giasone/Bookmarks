@@ -161,3 +161,59 @@ Meshtastic SDR Analyzer & Desktop GUI. A tool to analyze the meshtastic network 
 Skill to bring your own OpenAI, Gemini, or local AI models to the Rabbit R1 via LiveKit - ShayneP/rabbit-r1-livekit-skill
 
 ---
+### [GitHub - markusj87/jobsifter: Free, open source AI-powered desktop app that scans job listings, matches them against your CV, and helps you focus on the roles you're most likely to land. · GitHub](https://github.com/markusj87/jobsifter)
+
+![preview](https://opengraph.githubassets.com/20536e5af6e150cdd858bd649e05877e966fcc365abb0c0df617e8a5489ad5ee/markusj87/jobsifter)
+
+Free, open source AI-powered desktop app that scans job listings, matches them against your CV, and helps you focus on the roles you're most likely to land. - markusj87/jobsifter
+
+---
+### [GitHub - akdeb/Elato-Local: Local, Free CharacterAI with inference on Apple Silicon and ESP32 WebSocket transport · GitHub](https://github.com/akdeb/open-toys)
+
+![preview](https://opengraph.githubassets.com/ccf7b84de3de7c8534cd1dec03e7da9b33a114bbfda25ea9abebe376385aa800/akdeb/Elato-Local)
+
+Local, Free CharacterAI with inference on Apple Silicon and ESP32 WebSocket transport - akdeb/Elato-Local
+
+---
+### [GitHub - Keralots/BambuHelper · GitHub](https://github.com/Keralots/BambuHelper)
+
+![preview](https://opengraph.githubassets.com/dbdab444fa82a1259bd78e63d3582433c028f9c08305b07d9d7c31a809d9fb87/Keralots/BambuHelper)
+
+Contribute to Keralots/BambuHelper development by creating an account on GitHub.
+
+---
+### [GitHub - SkyRizzAI/SkyRizz-E32: Open-source, Solana-focused embedded hardware · GitHub](https://github.com/SkyRizzAI/SkyRizz-E32)
+
+![preview](https://opengraph.githubassets.com/c427c2cd9e7652db47f0aa1df351a58125264bcf90579c9d8f4fea7e6744a1c3/SkyRizzAI/SkyRizz-E32)
+
+Open-source, Solana-focused embedded hardware. Contribute to SkyRizzAI/SkyRizz-E32 development by creating an account on GitHub.
+
+---
+### [GitHub - Yutani140x/saturnix-camera: Retro-futuristic open-source camera with custom hardware and film-like rendering · GitHub](https://github.com/Yutani140x/saturnix-camera)
+
+![preview](https://opengraph.githubassets.com/a91e8e1bf281c7bd12b21a6fe5689284515f35f2c7a8788d042d0d1ac1f2fc88/Yutani140x/saturnix-camera)
+
+Retro-futuristic open-source camera with custom hardware and film-like rendering - Yutani140x/saturnix-camera
+
+---
+### [GitHub - tonywestonuk/EPD_Painter: Fast m5paperS3 epaper driver · GitHub](https://github.com/tonywestonuk/EPD_Painter)
+
+![preview](https://opengraph.githubassets.com/5c0dfa76c9d6ff6bdbbb76ccabec8e1f672f27683b0867b2e7ead0b40535f850/tonywestonuk/EPD_Painter)
+
+Fast m5paperS3 epaper driver. Contribute to tonywestonuk/EPD_Painter development by creating an account on GitHub.
+
+---
+### [GitHub - Elias55745/mini-laser-printer: mini laser printer · GitHub](https://github.com/Elias55745/mini-laser-printer)
+
+![preview](https://opengraph.githubassets.com/94fcfe91f9bdbb88f898f699ca7de77206538e2ccffb9b40bd060f173076987f/Elias55745/mini-laser-printer)
+
+mini laser printer. Contribute to Elias55745/mini-laser-printer development by creating an account on GitHub.
+
+---
+### [GitHub - Sparkadium/Edge-Video-Over-ESP-NOW: Wireless video transfer using filtered edge detected feed over ESP-NOW · GitHub](https://github.com/Sparkadium/Edge-Video-Over-ESP-NOW/)
+
+![preview](https://opengraph.githubassets.com/a851e2ba364032dd6f4fca0105df20915fc9efa0e363ae6901322c07c764c990/Sparkadium/Edge-Video-Over-ESP-NOW)
+
+Wireless video transfer using filtered edge detected feed over ESP-NOW - Sparkadium/Edge-Video-Over-ESP-NOW
+
+---
