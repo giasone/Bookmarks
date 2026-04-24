@@ -125,3 +125,11 @@ A collection of useful information for new X banders
 ### [Toit programming language](https://toitlang.org/)
 
 ---
+### [Flipper Developer Docs: App Development](https://developer.flipper.net/flipperzero/doxygen/applications.html)
+
+---
+### [Littleplanets · volzo](https://volzo.de/thing/littleplanets/)
+
+Christopher Getschmann
+
+---

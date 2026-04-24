@@ -486,3 +486,17 @@ Bambu Lab cloud printer monitor using MQTT (Python & Flipper Zero App) - jsammar
 KiCad placement optimizer plugin using simulated annealing - remiblokker/CadMust-Neo
 
 ---
+### [GitHub - woodruffrb/Gerbdiff-Testing: Test repository for GerbDiff automated Gerber diff tooling · GitHub](https://github.com/woodruffrb/Gerbdiff-Testing)
+
+![preview](https://opengraph.githubassets.com/a62fe5d5836be80f69ef6625795e8692c13f56940e64e6db4bbec15ca17e37e4/woodruffrb/Gerbdiff-Testing)
+
+Test repository for GerbDiff automated Gerber diff tooling - woodruffrb/Gerbdiff-Testing
+
+---
+### [GitHub - beardicus/awesome-plotters: A curated list of code and resources for computer-controlled drawing machines and other visual art robots. · GitHub](https://github.com/beardicus/awesome-plotters)
+
+![preview](https://opengraph.githubassets.com/263705d21702cb85b56dece7ce8cde94fd935fec098e18f16024c477f0204752/beardicus/awesome-plotters)
+
+A curated list of code and resources for computer-controlled drawing machines and other visual art robots. - beardicus/awesome-plotters
+
+---
