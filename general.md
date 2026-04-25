@@ -133,3 +133,10 @@ A collection of useful information for new X banders
 Christopher Getschmann
 
 ---
+### [Blot](https://blot.hackclub.com/)
+
+![preview](https://blot.hackclub.com/assets/blot-white-bg.jpg)
+
+Blot!
+
+---

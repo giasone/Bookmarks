@@ -500,3 +500,31 @@ Test repository for GerbDiff automated Gerber diff tooling - woodruffrb/Gerbdiff
 A curated list of code and resources for computer-controlled drawing machines and other visual art robots. - beardicus/awesome-plotters
 
 ---
+### [GitHub - hackclub/blot: 🤖 ✍️ blot, the plotting bot from hack club · GitHub](https://github.com/hackclub/blot)
+
+![preview](https://opengraph.githubassets.com/9ccbf55ad6cd17348ebf7b17fc0e709ecaec806a5d1a3e3618e29d3baa9a4ad4/hackclub/blot)
+
+🤖 ✍️ blot, the plotting bot from hack club. Contribute to hackclub/blot development by creating an account on GitHub.
+
+---
+### [GitHub - beardicus/awesome-plotters: A curated list of code and resources for computer-controlled drawing machines and other visual art robots. · GitHub](https://github.com/beardicus/awesome-plotters)
+
+![preview](https://opengraph.githubassets.com/263705d21702cb85b56dece7ce8cde94fd935fec098e18f16024c477f0204752/beardicus/awesome-plotters)
+
+A curated list of code and resources for computer-controlled drawing machines and other visual art robots. - beardicus/awesome-plotters
+
+---
+### [GitHub - DeadTomGC/seeker · GitHub](https://github.com/DeadTomGC/seeker)
+
+![preview](https://opengraph.githubassets.com/944f8334d40eb203ee651147ea3623d982f6b7a7288f7de9e557fc63d10cb921/DeadTomGC/seeker)
+
+Contribute to DeadTomGC/seeker development by creating an account on GitHub.
+
+---
+### [GitHub - itsc0c0/flipsay: Turn your flipper into an mini SDR! · GitHub](https://github.com/itsc0c0/flipsay)
+
+![preview](https://opengraph.githubassets.com/0cfda01a3e3db0d0aee07dd858257dfeee11d191c0748f0d4c2ceaa4edab9b88/itsc0c0/flipsay)
+
+Turn your flipper into an mini SDR! Contribute to itsc0c0/flipsay development by creating an account on GitHub.
+
+---
