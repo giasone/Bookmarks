@@ -140,3 +140,6 @@ Christopher Getschmann
 Blot!
 
 ---
+### [GQRP Sprat-on-a-stick v10](https://wara-resources.ddns.net:8443/page11.htm)
+
+---

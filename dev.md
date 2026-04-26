@@ -528,3 +528,24 @@ Contribute to DeadTomGC/seeker development by creating an account on GitHub.
 Turn your flipper into an mini SDR! Contribute to itsc0c0/flipsay development by creating an account on GitHub.
 
 ---
+### [ubo-pcb/KiCad/ubo-nfc-hat at main · ubopod/ubo-pcb · GitHub](https://github.com/ubopod/ubo-pcb/tree/main/KiCad/ubo-nfc-hat)
+
+![preview](https://opengraph.githubassets.com/9b19fe5f10bac08b7941ea971bf92f919bb717e99ef8907e95770a4896662ab3/ubopod/ubo-pcb)
+
+This repo contains open source PCB designs used in conjunction with Ubo Pod other open source system components. - ubo-pcb/KiCad/ubo-nfc-hat at main · ubopod/ubo-pcb
+
+---
+### [GitHub - redecentralize/alternative-internet: A collection of interesting new networks and tech aiming at decentralisation (in some form). · GitHub](https://github.com/redecentralize/alternative-internet)
+
+![preview](https://opengraph.githubassets.com/87185510d13ea4c4d4add4ff631320b7547bb1a4738c190082bac325aac261b1/redecentralize/alternative-internet)
+
+A collection of interesting new networks and tech aiming at decentralisation (in some form). - redecentralize/alternative-internet
+
+---
+### [GitHub - devtooligan/awesome-ascii-art: A curated list of resources and examples of ASCII Art · GitHub](https://github.com/devtooligan/awesome-ascii-art)
+
+![preview](https://opengraph.githubassets.com/738f135ec1e3277c1911239f36fa4415bf18bd3cdc0bf531f6ae2440b674d33f/devtooligan/awesome-ascii-art)
+
+A curated list of resources and examples of ASCII Art - devtooligan/awesome-ascii-art
+
+---
