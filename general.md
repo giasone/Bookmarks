@@ -143,3 +143,8 @@ Blot!
 ### [GQRP Sprat-on-a-stick v10](https://wara-resources.ddns.net:8443/page11.htm)
 
 ---
+### [THE CYBERDECK CAFE](https://cyberdeck.cafe/)
+
+![preview](http://static1.squarespace.com/static/5f8130e65ece6f0b79eb3e69/t/5f8141e177f3647b32aaec3d/1615536273442/icon.jpg?format=1500w)
+
+---

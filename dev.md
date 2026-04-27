@@ -549,3 +549,31 @@ A collection of interesting new networks and tech aiming at decentralisation (in
 A curated list of resources and examples of ASCII Art - devtooligan/awesome-ascii-art
 
 ---
+### [open-source/MATRIX MIXER at main · bartinstruments/open-source · GitHub](https://github.com/bartinstruments/open-source/tree/main/MATRIX%20MIXER)
+
+![preview](https://opengraph.githubassets.com/87e2fe35ffb5135343119c55100993c0439dfc14680673c04453ab43f5756a9b/bartinstruments/open-source)
+
+All b:art instruments schematics, PCB designs and code made available for everyone to download. - open-source/MATRIX MIXER at main · bartinstruments/open-source
+
+---
+### [GitHub - miotronic/raspberry-pi-teleprompter: Dedicated teleprompter built on Raspberry Pi Zero 2 W with a custom Python/Pygame app. Runs on an 8" display mounted in an Ulanzi RT02 frame. Auto-boots, script selection menu, multilingual UI, Bluetooth control. · GitHub](https://github.com/miotronic/raspberry-pi-teleprompter)
+
+![preview](https://opengraph.githubassets.com/074bd83c2217cadad05d7158f1935e2f1aacf9733a2fc41fde21ec42bdf6b02f/miotronic/raspberry-pi-teleprompter)
+
+Dedicated teleprompter built on Raspberry Pi Zero 2 W with a custom Python/Pygame app. Runs on an 8" display mounted in an Ulanzi RT02 frame. Auto-boots, script selection menu, multilingual UI, Bluetooth control. - miotronic/raspberry-pi-teleprompter
+
+---
+### [GitHub - asimovinc/asimov-v1: v1 of Asimov, an open-source humanoid robot · GitHub](http://github.com/asimovinc/asimov-v1)
+
+![preview](https://opengraph.githubassets.com/7190e6eacf63bc957ed9b969ad0763a2ccff4a26712e7cd773a809e1402a3880/asimovinc/asimov-v1)
+
+v1 of Asimov, an open-source humanoid robot . Contribute to asimovinc/asimov-v1 development by creating an account on GitHub.
+
+---
+### [Home · OpenEPaperLink/OpenEPaperLink Wiki · GitHub](https://github.com/OpenEPaperLink/OpenEPaperLink/wiki#supported-tags)
+
+![preview](https://opengraph.githubassets.com/2878591fd63d3af60775af0731eaf7f767f5386773b0fe868602951253b40faf/OpenEPaperLink/OpenEPaperLink)
+
+The OpenEPaperLink core project. Contribute to OpenEPaperLink/OpenEPaperLink development by creating an account on GitHub.
+
+---
