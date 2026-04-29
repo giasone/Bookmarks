@@ -577,3 +577,31 @@ v1 of Asimov, an open-source humanoid robot . Contribute to asimovinc/asimov-v1 
 The OpenEPaperLink core project. Contribute to OpenEPaperLink/OpenEPaperLink development by creating an account on GitHub.
 
 ---
+### [PNCATEHO/stone at master · aroum/PNCATEHO · GitHub](https://github.com/aroum/PNCATEHO/tree/master/stone)
+
+![preview](https://opengraph.githubassets.com/5b9987e0cfed6b7c2c23bacda2545618778ca996ca084af05b2fdbcf3768fbc3/aroum/PNCATEHO)
+
+РИСАТЕНО (RISATENO) is a 10 key chord keyboard. Contribute to aroum/PNCATEHO development by creating an account on GitHub.
+
+---
+### [PNCATEHO/light at main · inpudiy/PNCATEHO · GitHub](https://github.com/inpudiy/PNCATEHO/tree/main/light)
+
+![preview](https://opengraph.githubassets.com/f7c6c51c2839ac939a682b1652d5874f2c2e3b10bcea7039e93be1a3f7f691d8/inpudiy/PNCATEHO)
+
+РИСАТЕНО (RISATENO) is a 10 key chord keyboard. Contribute to inpudiy/PNCATEHO development by creating an account on GitHub.
+
+---
+### [Releases · bigbrodude6119/flipper-zero-friend-finder · GitHub](https://github.com/bigbrodude6119/flipper-zero-friend-finder/releases)
+
+![preview](https://opengraph.githubassets.com/501e572a799323831655298c7854305bf0606575872a5e06a815e5268c54524c/bigbrodude6119/flipper-zero-friend-finder)
+
+Contribute to bigbrodude6119/flipper-zero-friend-finder development by creating an account on GitHub.
+
+---
+### [GitHub - nekename/OpenDeck: Linux software for the Stream Deck with support for original Elgato Stream Deck plugins · GitHub](https://github.com/nekename/OpenDeck)
+
+![preview](https://repository-images.githubusercontent.com/540915646/3c794ee5-2633-4c0a-953d-432e435c9d5a)
+
+Linux software for the Stream Deck with support for original Elgato Stream Deck plugins - nekename/OpenDeck
+
+---

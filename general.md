@@ -148,3 +148,10 @@ Blot!
 ![preview](http://static1.squarespace.com/static/5f8130e65ece6f0b79eb3e69/t/5f8141e177f3647b32aaec3d/1615536273442/icon.jpg?format=1500w)
 
 ---
+### [odio — Open-source Raspberry Pi audio streamer. Self-hosted, Home Assistant native.](https://odio.love/)
+
+![preview](https://odio.love/logo.png)
+
+odio turns any Raspberry Pi into a free self-hosted audio streamer. AirPlay, Bluetooth, Spotify, Tidal, multi-room, Home Assistant. One curl command on your existing Pi OS. No flashing, no account, no telemetry. The Volumio alternative that stays free.
+
+---
