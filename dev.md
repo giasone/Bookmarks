@@ -605,3 +605,24 @@ Contribute to bigbrodude6119/flipper-zero-friend-finder development by creating 
 Linux software for the Stream Deck with support for original Elgato Stream Deck plugins - nekename/OpenDeck
 
 ---
+### [GitHub - OpenBricx/OpenDeck · GitHub](https://github.com/OpenBricx/OpenDeck)
+
+![preview](https://opengraph.githubassets.com/2865dcc304b28a32a1957ccad9d8ad393b6d78fd71f80aaedd8dde0464543954/OpenBricx/OpenDeck)
+
+Contribute to OpenBricx/OpenDeck development by creating an account on GitHub.
+
+---
+### [GitHub - engmung/PatternFlow: An open-source LED synthesizer. Play light patterns with your fingertips. A modern reinterpretation of Nam June Paik's Participation TV (1963). · GitHub](https://github.com/engmung/PatternFlow)
+
+![preview](https://opengraph.githubassets.com/cd770ce3b03c56226323d213b21a3111958bcc9c5dba8114bfeac378945bd012/engmung/PatternFlow)
+
+An open-source LED synthesizer. Play light patterns with your fingertips. A modern reinterpretation of Nam June Paik's Participation TV (1963). - engmung/PatternFlow
+
+---
+### [GitHub - nexu-io/open-design: 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI. · GitHub](https://github.com/nexu-io/open-design)
+
+![preview](https://opengraph.githubassets.com/6b5935bb346485038ac3cf90d52bd96652aabb09ccca4b7c92a373cb8e4f8e63/nexu-io/open-design)
+
+🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI. - nexu-io/open-design
+
+---

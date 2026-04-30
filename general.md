@@ -155,3 +155,10 @@ Blot!
 odio turns any Raspberry Pi into a free self-hosted audio streamer. AirPlay, Bluetooth, Spotify, Tidal, multi-room, Home Assistant. One curl command on your existing Pi OS. No flashing, no account, no telemetry. The Volumio alternative that stays free.
 
 ---
+### [Spirae - Fotografia Liquida](https://fotografialiquida.it/spirae/)
+
+![preview](https://fotografialiquida.it/wp-content/uploads/2026/04/6.jpg)
+
+Lensless & Crude
+
+---
