@@ -626,3 +626,31 @@ An open-source LED synthesizer. Play light patterns with your fingertips. A mode
 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI. - nexu-io/open-design
 
 ---
+### [GitHub - elder-plinius/G0DM0D3 at opensourceprojects.dev · GitHub](https://github.com/elder-plinius/G0DM0D3?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev)
+
+![preview](https://opengraph.githubassets.com/118f3e069b7dc38e30e4f4684be3a25839566ebb21e2122bc41d3975e09f24be/elder-plinius/G0DM0D3)
+
+LIBERATED AI CHAT. Contribute to elder-plinius/G0DM0D3 development by creating an account on GitHub.
+
+---
+### [GitHub - caamer20/Telegram-Drive: Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React. · GitHub](https://github.com/caamer20/Telegram-Drive)
+
+![preview](https://opengraph.githubassets.com/b97e80f1436e43430de1c4e6ee367d9c51c9cf2f6bb32dfb204dda41bcfa27e7/caamer20/Telegram-Drive)
+
+Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React. - caamer20/Telegram-Drive
+
+---
+### [GitHub - microsoft/MS-DOS: The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes · GitHub](https://github.com/microsoft/MS-DOS)
+
+![preview](https://opengraph.githubassets.com/ee0abb52ddefc884b8d64fcff41fec68968123b68811d0307a97e64be73ac2ab/microsoft/MS-DOS)
+
+The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes - microsoft/MS-DOS
+
+---
+### [GitHub - Pancra85/VGA_graphics: VGA output for the Raspberry Pico in the Arduino IDE · GitHub](https://github.com/Pancra85/VGA_graphics/tree/main)
+
+![preview](https://opengraph.githubassets.com/98ca53ac5a5e55a2fc8f04cd85fdb5bd378b3c6a652b8eff1a2cd1f4fb1beba1/Pancra85/VGA_graphics)
+
+VGA output for the Raspberry Pico in the Arduino IDE - Pancra85/VGA_graphics
+
+---

@@ -162,3 +162,6 @@ odio turns any Raspberry Pi into a free self-hosted audio streamer. AirPlay, Blu
 Lensless & Crude
 
 ---
+### [Before you continue](https://chromewebstore.google.com/detail/cat-gatekeeper/elbikiflgfhjdjmficnigpeegjbhdidh)
+
+---
