@@ -654,3 +654,24 @@ The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes - micro
 VGA output for the Raspberry Pico in the Arduino IDE - Pancra85/VGA_graphics
 
 ---
+### [GitHub - razorArnov/PICO-VGA-BOARD · GitHub](https://github.com/razorArnov/PICO-VGA-BOARD)
+
+![preview](https://opengraph.githubassets.com/dcd4b3c6e782196c79cb8b303a40938fe3e94b2ffc1f8f298ba40701a82dec2f/razorArnov/PICO-VGA-BOARD)
+
+Contribute to razorArnov/PICO-VGA-BOARD development by creating an account on GitHub.
+
+---
+### [GitHub - TauricResearch/TradingAgents: TradingAgents: Multi-Agents LLM Financial Trading Framework · GitHub](https://github.com/TauricResearch/TradingAgents)
+
+![preview](https://repository-images.githubusercontent.com/909213664/8cfc671d-b54b-400e-beab-8ef0bbf39aa1)
+
+TradingAgents: Multi-Agents LLM Financial Trading Framework - TauricResearch/TradingAgents
+
+---
+### [GitHub - cifertech/ESP32-Drone: Wi‑Fi quadcopter flight stack with browser UI · GitHub](https://github.com/cifertech/ESP32-Drone)
+
+![preview](https://opengraph.githubassets.com/5ece9d4646ba812f8be411c1c8287f3b0282789bc041600afeab381a7b053221/cifertech/ESP32-Drone)
+
+Wi‑Fi quadcopter flight stack with browser UI. Contribute to cifertech/ESP32-Drone development by creating an account on GitHub.
+
+---

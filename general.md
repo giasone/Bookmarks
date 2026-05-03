@@ -165,3 +165,12 @@ Lensless & Crude
 ### [Before you continue](https://chromewebstore.google.com/detail/cat-gatekeeper/elbikiflgfhjdjmficnigpeegjbhdidh)
 
 ---
+### [Pico VGA Board 1.0 : 13 Steps (with Pictures) - Instructables](https://www.instructables.com/Pico-VGA-Board-10/)
+
+![preview](https://content.instructables.com/FTM/BOPO/MNGK3FET/FTMBOPOMNGK3FET.jpg?auto=webp&frame=1)
+
+Pico VGA Board 1.0: Greetings everyone, and welcome back!
+Today I’ve got something super interesting to show you—the Pico VGA Board.
+The heart of this project is a Raspberry Pi PICO W paired with a D-SUB15 connector, and with this setup, we can use a regular TFT monito…
+
+---
