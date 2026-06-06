@@ -675,3 +675,220 @@ TradingAgents: Multi-Agents LLM Financial Trading Framework - TauricResearch/Tra
 Wi‑Fi quadcopter flight stack with browser UI. Contribute to cifertech/ESP32-Drone development by creating an account on GitHub.
 
 ---
+### [GitHub - rabbihossain/BikeNavESP32: ESP32 Based Navigation System for Bike - (Similar to Royal Enfield's tripper navigation or Beeline Moto I) · GitHub](https://github.com/rabbihossain/BikeNavESP32?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExUGZBOHZxdEQ1TGFUV2ZveXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6aBMsOmISxxF2mjMFpiQW2JsO0CUufJbsAn_FM1cOgaaKt-Mz2_OZN__y3Sw_aem_S0JGQwym2vFOJROKQp3tew)
+
+![preview](https://opengraph.githubassets.com/f351ec6861370dc71a7ecc0dd4c0eb6a7542eea5f2dc2cf30865b5c0f6c1e922/rabbihossain/BikeNavESP32)
+
+ESP32 Based Navigation System for Bike - (Similar to Royal Enfield's tripper navigation or Beeline Moto I)  - GitHub - rabbihossain/BikeNavESP32: ESP32 Based Navigation System for Bike - (Similar to Royal Enfield's tripper navigation or Beeline Moto I)
+
+---
+### [GitHub - rabbihossain/BikeNavMobile: ESP32 Based Navigation System for Bike (Mobile Companion App) · GitHub](https://github.com/rabbihossain/BikeNavMobile?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExUGZBOHZxdEQ1TGFUV2ZveXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4rEG7MWiVCI8FJ99oIXMFDflgIEnjn3ODEEvq0fa7PtF9Se3rMi4etEvmZ8A_aem_R2pS2f72wxQ9teUxUmg6sQ)
+
+![preview](https://opengraph.githubassets.com/c6f6cf6f21ff0508a031808acd91cc13bbec95dda7c9e44d8d9d8a5170eacf24/rabbihossain/BikeNavMobile)
+
+ESP32 Based Navigation System for Bike (Mobile Companion App) - rabbihossain/BikeNavMobile
+
+---
+### [GitHub - freemocap/freemocap: Free Motion Capture for Everyone 💀✨ · GitHub](https://github.com/freemocap/freemocap)
+
+![preview](https://opengraph.githubassets.com/1ba53902150d538ab3784dd42d710c0e5f5086532123f647415fa5115aec87fb/freemocap/freemocap)
+
+Free Motion Capture for Everyone 💀✨. Contribute to freemocap/freemocap development by creating an account on GitHub.
+
+---
+### [GitHub - YouMind-OpenLab/awesome-gpt-image-2: 🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source. · GitHub](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+
+![preview](https://opengraph.githubassets.com/095ad2eb6a3b8d994a329b3a32b8066f214eda38afb74242b346c84c144416c6/YouMind-OpenLab/awesome-gpt-image-2)
+
+🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source. - YouMind-OpenLab/awesome-gpt-image-2
+
+---
+### [GitHub - chrismoos/1xbts: CDMA2000 Open Source Cellular Network · GitHub](https://github.com/chrismoos/1xbts)
+
+![preview](https://opengraph.githubassets.com/d586da4d238d69c71dd7238794e9c4e61b46803a2ca7e6347064fa38ed2f8e1b/chrismoos/1xbts)
+
+CDMA2000 Open Source Cellular Network . Contribute to chrismoos/1xbts development by creating an account on GitHub.
+
+---
+### [GitHub - DRubioG/JC-ESP32P4-M3-DEV: Repo for JC-ESP32P4-M3-DEV board · GitHub](https://github.com/DRubioG/JC-ESP32P4-M3-DEV)
+
+![preview](https://opengraph.githubassets.com/8c8fd0a09e3b07038f9c83102c6c3165dc8fca570cd9ed1645a8b8ee3b15486c/DRubioG/JC-ESP32P4-M3-DEV)
+
+Repo for JC-ESP32P4-M3-DEV board. Contribute to DRubioG/JC-ESP32P4-M3-DEV development by creating an account on GitHub.
+
+---
+### [GitHub - dvucinozd/Home-Assistant-MQTT-Voice-Assistant: JC-ESP32P4-M3-DEV firmware: offline wake word, HA Assist pipeline, MQTT control, OTA updates. · GitHub](https://github.com/dvucinozd/Home-Assistant-MQTT-Voice-Assistant)
+
+![preview](https://opengraph.githubassets.com/b0d5827cef9cb09b9f6a7479ec06b10b9a9ce55717d17db9782652f1808945d2/dvucinozd/Home-Assistant-MQTT-Voice-Assistant)
+
+JC-ESP32P4-M3-DEV firmware: offline wake word, HA Assist pipeline, MQTT control, OTA updates. - dvucinozd/Home-Assistant-MQTT-Voice-Assistant
+
+---
+### [GitHub - biologist79/ESPuino: RFID-controlled musicplayer powered by ESP32 · GitHub](https://github.com/biologist79/ESPuino)
+
+![preview](https://opengraph.githubassets.com/56f164d30d6dc3940c120d09ecaf4b0734022e333b386625e25ad2e5c479fb61/biologist79/ESPuino)
+
+RFID-controlled musicplayer powered by ESP32. Contribute to biologist79/ESPuino development by creating an account on GitHub.
+
+---
+### [GitHub - hnsvrdmn/flipper-rfid-metal-detector: A Flipper Zero application that repurposes the 125kHz RFID antenna to act as a makeshift metal detector. · GitHub](https://github.com/hnsvrdmn/flipper-rfid-metal-detector)
+
+![preview](https://opengraph.githubassets.com/46b0aaa590a51354b6c87e138fcdde6a71f2f787406bc10895ff4c26112029e9/hnsvrdmn/flipper-rfid-metal-detector)
+
+A Flipper Zero application that repurposes the 125kHz RFID antenna to act as a makeshift metal detector.  - GitHub - hnsvrdmn/flipper-rfid-metal-detector: A Flipper Zero application that repurposes the 125kHz RFID antenna to act as a makeshift metal detector.
+
+---
+### [GitHub - danilogcrf2-oss/ESP32Synth: Polyphonic synthesizer with 80+ voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit). · GitHub](https://github.com/danilogcrf2-oss/ESP32Synth/tree/main)
+
+![preview](https://repository-images.githubusercontent.com/1123417709/d074d772-0466-4ab5-ab2c-8fae0a442e2e)
+
+Polyphonic synthesizer with 80+ voices/channels for the ESP32 dual core family, offering high-fidelity audio (48kHz @ 32bit). - danilogcrf2-oss/ESP32Synth
+
+---
+### [GitHub - aquaticus/esp32_composite_video_lib: ESP32 library that generates composite video signal for PAL, SECAM and NTSC. · GitHub](https://github.com/aquaticus/esp32_composite_video_lib)
+
+![preview](https://repository-images.githubusercontent.com/469456864/588be9e2-7a6b-4928-90e8-f901136333dd)
+
+ESP32 library that generates composite video signal for PAL, SECAM and NTSC. - aquaticus/esp32_composite_video_lib
+
+---
+### [GitHub - CNES/argos-demo-board: Demo board designed to use the ARRIBADA SMD module via USB to send ARGOS messages to the Kineis constellation. · GitHub](https://github.com/CNES/argos-demo-board)
+
+![preview](https://repository-images.githubusercontent.com/1193757517/2765da5f-1411-45c4-924b-c2b162a296af)
+
+Demo board designed to use the ARRIBADA SMD module via USB to send ARGOS messages to the Kineis constellation. - CNES/argos-demo-board
+
+---
+### [GitHub - DiyYari/Atlas_Node: Atlas_Node mesh network · GitHub](https://github.com/DiyYari/Atlas_Node)
+
+![preview](https://opengraph.githubassets.com/6bffac892060b345eab8245ea3c94da78becc3189935d8d2f2b95aa6c18bd0d3/DiyYari/Atlas_Node)
+
+Atlas_Node mesh network. Contribute to DiyYari/Atlas_Node development by creating an account on GitHub.
+
+---
+### [GitHub - madfrozen/penplotter · GitHub](https://github.com/madfrozen/penplotter)
+
+![preview](https://opengraph.githubassets.com/937a1cab93cf8c4d98f7f6c0fa1cf568490174fdf28b9270124d704307d46cd6/madfrozen/penplotter)
+
+Contribute to madfrozen/penplotter development by creating an account on GitHub.
+
+---
+### [GitHub - freecodecanada/CanuckWeb- · GitHub](https://github.com/freecodecanada/CanuckWeb-)
+
+![preview](https://opengraph.githubassets.com/2d377dfeb5975621efc360d82fc09d3cb1ea847a4a08e545e7938e5b6b57f8ba/freecodecanada/CanuckWeb-)
+
+Contribute to freecodecanada/CanuckWeb- development by creating an account on GitHub.
+
+---
+### [GitHub - engneer-hamachan/pro-editor-pocket · GitHub](https://github.com/engneer-hamachan/pro-editor-pocket)
+
+![preview](https://opengraph.githubassets.com/a5b1521511295a18abab096db274572604259f764ae18a35765651feb40e7c13/engneer-hamachan/pro-editor-pocket)
+
+Contribute to engneer-hamachan/pro-editor-pocket development by creating an account on GitHub.
+
+---
+### [GitHub - TheJudge26/C-Asterisk-Alpha: C* (C-Asterisk) is a custom, high-performance programming language. It uses LLVM and native I/O bypasses to run Deep Learning models from scratch 100x faster than Python. · GitHub](https://github.com/TheJudge26/C-Asterisk-Alpha)
+
+![preview](https://opengraph.githubassets.com/43b433e5c4c7b98eacae31f0a01bc70cb37405f32495ce8d9ba0d5c8776fae40/TheJudge26/C-Asterisk-Alpha)
+
+C* (C-Asterisk) is a custom, high-performance programming language. It uses LLVM and native I/O bypasses to run Deep Learning models from scratch 100x faster than Python. - TheJudge26/C-Asterisk-Alpha
+
+---
+### [GitHub - sanderdesnaijer/esp32-mini-oled-webcam-stream-mediapipe: ESP32 Mini OLED Webcam Stream (MediaPipe + Arduino) · GitHub](https://github.com/sanderdesnaijer/esp32-mini-oled-webcam-stream-mediapipe)
+
+![preview](https://opengraph.githubassets.com/765c956d271382b4091756dc2e98cded10a3aed5ccb6240c76e054dc764ca2c9/sanderdesnaijer/esp32-mini-oled-webcam-stream-mediapipe)
+
+ESP32 Mini OLED Webcam Stream (MediaPipe + Arduino) - sanderdesnaijer/esp32-mini-oled-webcam-stream-mediapipe
+
+---
+### [GitHub - truelockmc/streambert at opensourceprojects.dev · GitHub](https://github.com/truelockmc/streambert?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev)
+
+![preview](https://repository-images.githubusercontent.com/1160232942/662e90ff-7ef1-4ad2-947f-6418f0233545)
+
+A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking - GitHub - truelockmc/streambert at opensourceprojects.dev
+
+---
+### [GitHub - simplifaisoul/osiris: Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative · GitHub](https://github.com/simplifaisoul/osiris)
+
+![preview](https://opengraph.githubassets.com/d25556b4885a91ddb5efdc4bb6b61a9147c74e8ef6ca9e10dfff6e9d31429b71/simplifaisoul/osiris)
+
+Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative - simplifaisoul/osiris
+
+---
+### [GitHub - AjinkyaGokhale/esp-flasher-java: Flash ESP32 firmware without command line. Auto-installs esptool, factory mode for batch flashing. · GitHub](https://github.com/AjinkyaGokhale/esp-flasher-java)
+
+![preview](https://opengraph.githubassets.com/4a624bdb93bbaaf1989fb09ffaa60d75634308cc83193c4e7d4550c083325323/AjinkyaGokhale/esp-flasher-java)
+
+Flash ESP32 firmware without command line. Auto-installs esptool, factory mode for batch flashing. - AjinkyaGokhale/esp-flasher-java
+
+---
+### [GitHub - joeyleake/expLoRation: A level editor for the real world. · GitHub](https://github.com/joeyleake/expLoRation)
+
+![preview](https://repository-images.githubusercontent.com/1240890435/535d034d-9876-4c97-8204-51f5b913b61d)
+
+A level editor for the real world. Contribute to joeyleake/expLoRation development by creating an account on GitHub.
+
+---
+### [GitHub - ExperimentalDesignBureau-1571/fpv-ground-control-station: Modular Ground Control Station for FPV Drones · GitHub](https://github.com/ExperimentalDesignBureau-1571/fpv-ground-control-station)
+
+![preview](https://repository-images.githubusercontent.com/1160329121/9ed9af6c-38c4-402e-840a-a730c9ca6f7d)
+
+Modular Ground Control Station for FPV Drones. Contribute to ExperimentalDesignBureau-1571/fpv-ground-control-station development by creating an account on GitHub.
+
+---
+### [GitHub - LukeDitria/mini_ai_camera: mini raspberry pi ai wildlife monitor using the imx500 · GitHub](https://github.com/LukeDitria/mini_ai_camera)
+
+![preview](https://opengraph.githubassets.com/0b5a8edd9be3a6edcd5dd8623c48b658610ea755d017cc2455bd8684e3d1b8e8/LukeDitria/mini_ai_camera)
+
+mini raspberry pi ai wildlife monitor using the imx500 - LukeDitria/mini_ai_camera
+
+---
+### [GitHub - solitary-dev-50/jishi-s3-open-source: Open-source basic firmware for JiShi S3, based on the Xiaozhi ESP32 firmware. Includes device-side hardware adaptation, protocol compatibility, and build/flash instructions. · GitHub](https://github.com/solitary-dev-50/jishi-s3-open-source)
+
+![preview](https://opengraph.githubassets.com/3a25a8c33ca5ec63630419438ba4d7ab04aa55daecdbb2e614f9ebe578d2f653/solitary-dev-50/jishi-s3-open-source)
+
+Open-source basic firmware for JiShi S3, based on the Xiaozhi ESP32 firmware. Includes device-side hardware adaptation, protocol compatibility, and build/flash instructions. - solitary-dev-50/jishi-s3-open-source
+
+---
+### [GitHub - 0-AI-UG/cate: An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace. · GitHub](https://github.com/0-AI-UG/cate)
+
+![preview](https://repository-images.githubusercontent.com/1195336965/9047a02f-9af4-4590-b0f4-8e92794d00a0)
+
+An infinite zoomable canvas for coding. Editor, terminal, and browser panels in a spatial workspace. - 0-AI-UG/cate
+
+---
+### [GitHub - ralsina/esposito · GitHub](https://github.com/ralsina/esposito)
+
+![preview](https://opengraph.githubassets.com/d2ab83056e0155d516dccc012407815324f60b0095d83b69cffbedfef30a863f/ralsina/esposito)
+
+Contribute to ralsina/esposito development by creating an account on GitHub.
+
+---
+### [GitHub - atomic14/esp32-walkie-talkie: A Walkie-Talkie based around the ESP32 using UDP broadcast or ESP-NOW · GitHub](https://github.com/atomic14/esp32-walkie-talkie)
+
+![preview](https://opengraph.githubassets.com/2855f5a9b14b2d3f50d362afad697c27d75b56fa6a3a096bf5b1faa714b7726c/atomic14/esp32-walkie-talkie)
+
+A Walkie-Talkie based around the ESP32 using UDP broadcast or ESP-NOW - atomic14/esp32-walkie-talkie
+
+---
+### [GitHub - tanakamasayuki/PCMFlowG722 · GitHub](https://github.com/tanakamasayuki/PCMFlowG722)
+
+![preview](https://opengraph.githubassets.com/214e043403a6271accd97a0660ed04c7d0b609910261bf6db73039773b3dbac5/tanakamasayuki/PCMFlowG722)
+
+Contribute to tanakamasayuki/PCMFlowG722 development by creating an account on GitHub.
+
+---
+### [GitHub - ataradov/free-dap: Free and open implementation of the CMSIS-DAP debugger firmware · GitHub](https://github.com/ataradov/free-dap)
+
+![preview](https://opengraph.githubassets.com/14edccf06ff776a1cd70da248c83d011d73b0f75773cc0be20bf6145931b2504/ataradov/free-dap)
+
+Free and open implementation of the CMSIS-DAP debugger firmware - ataradov/free-dap
+
+---
+### [market-viewer · GitHub](https://github.com/market-viewer)
+
+![preview](https://avatars.githubusercontent.com/u/265116575?s=280&v=4)
+
+market-viewer has 5 repositories available. Follow their code on GitHub.
+
+---

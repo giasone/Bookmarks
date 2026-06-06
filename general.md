@@ -174,3 +174,95 @@ Today I’ve got something super interesting to show you—the Pico VGA Board.
 The heart of this project is a Raspberry Pi PICO W paired with a D-SUB15 connector, and with this setup, we can use a regular TFT monito…
 
 ---
+### [Hardware | 1xBTS](https://1xbts.org/hardware/)
+
+![preview](https://1xbts.org/og.png)
+
+Supported SDR hardware for 1xBTS — USRP, LimeSDR, bladeRF, and any SoapySDR-compatible device.
+
+---
+### [VHF Omnidirectional Range (VOR) - Signal Identification Wiki](https://www.sigidwiki.com/wiki/VOR)
+
+A type of radio navigation system used by aircraft. It is distinctive in that the center frequency is flanked by two FM waves.
+
+---
+### [ESP32-P4-DevKit - Open Source Hardware Board](https://www.olimex.com/Products/IoT/ESP32-P4/ESP32-P4-DevKit/open-source-hardware)
+
+![preview](https://www.olimex.com/Products/IoT/ESP32-P4/ESP32-P4-DevKit/images/thumbs/310x230/ESP32-P4-DevKit-1.jpg)
+
+ESP32-P4 development board with Ethernet and USB JTAG
+
+---
+### [developmentboard:esp32-p4kit-c6 [ICBbuy]](https://wiki.icbbuy.com/doku.php?id=developmentboard:esp32-p4kit-c6)
+
+---
+- https://manuals.plus/m/56bd32fa75d62987872af2d21039e44379e4227a49e4b11402e4ae3a34110edd
+---
+### [DroneAware â Build a Node](https://droneaware.io/enroll.html)
+
+---
+### [Open Hardware Repository](https://ohwr.org/)
+
+---
+### [Open Hardware Repository / CERN KiCad Libraries · GitLab](https://gitlab.com/ohwr/cern-kicad-libs)
+
+![preview](https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg)
+
+Component libraries used at CERN for electronics design using KiCad.
+
+---
+- https://www.enac.gov.it/app/uploads/2025/03/syllabus-A1-A3-2024-finale-REV-1.pdf
+---
+### [Come si diventa Pilota UAS (drone) OPEN A1/A3 - Ente Nazionale per l'Aviazione Civile](https://www.enac.gov.it/sicurezza-aerea/droni/piloti-uas/come-si-diventa-pilota-uas-drone-open-a1a3/)
+
+Il Regolamento di Esecuzione (EU) 2019/947 prevede che per poter pilotare droni di peso maggiore o uguale a 250 grammi, in categoria OPEN, è obbligatorio possedere un attestato di pilota remoto rilasciato da una delle Autorità Nazionali dei Paesi membri di EASA. Per diventare pilota UAS nelle sottocategorie OPEN A1-A3 è necessario conseguire l’attestato chiamato “Prova di completamento […]
+
+---
+- https://www.enac.gov.it/app/uploads/2026/03/UAS_Recognized_Entities_-aprile-2026.pdf
+---
+### [Scout32 – ESP32 WiFi FPV Camera Rover – Pilot Hobbies](https://www.pilothobbies.com/product/scout32/)
+
+---
+### [XR10 Open Source Drum Module - Hackster.io](https://www.hackster.io/janost/xr10-open-source-drum-module-6b2b3f)
+
+![preview](https://hackster.imgix.net/uploads/attachments/732102/xr10_15_lmLXD0G0Jg.jpg?auto=compress&w=1600&h=1200&fit=min&fm=jpg)
+
+Build your own Eurorack drum module. Find this and other hardware projects on Hackster.io.
+
+---
+- https://osrtos.com/projects/clawdmeter/
+---
+### [ALCH shop](https://www.alch.shop/)
+
+![preview](http://static1.squarespace.com/static/5ef0b424463e2b2282e97bbc/t/5ef0b6172814402a19ef1ee6/1592833562671/alch+logo+black+v1.png?format=1500w)
+
+---
+### [GitHub - POWER-PILL/ASCII-Aquarium: ASCII Aquarium turns your Cheap Yellow Display into an tiny animated ASCII fish tank. It renders a live aquarium scene with animated fish, bubbles, swaying seaweed, tap-to-feed food flakes, occasional octopus & seahorse visitors, selectable backgrounds, preferences, optional Wi-Fi clock sync, & More! · GitHub](https://share.google/931cEz6dM93dU6XGb)
+
+![preview](https://opengraph.githubassets.com/7e4542305cf88a32d7adaa672a5cc0538dcd5b4466ae4fce1e3c6f6a8d12504b/POWER-PILL/ASCII-Aquarium)
+
+ASCII Aquarium turns your Cheap Yellow Display into an tiny animated ASCII fish tank. It renders a live aquarium scene with animated fish, bubbles, swaying seaweed, tap-to-feed food flakes, occasional octopus & seahorse visitors, selectable backgrounds, preferences, optional Wi-Fi clock sync, & More! - POWER-PILL/ASCII-Aquarium
+
+---
+### [JetDeck SCOUT](https://jetdeck.io/)
+
+---
+- https://www.reddit.com/r/robomates/s/MopPd10jKf
+---
+### [PCMFlow722 library enables two-way real-time HD voice over ESP-NOW with G.722 audio codec - CNX Software](https://share.google/21suelEcIycLZC550)
+
+![preview](https://www.cnx-software.com/wp-content/uploads/2026/05/ESP-NOW-two-way-HD-audio-communication.jpg)
+
+Tanaka Masayuki's PCMFlow722 library enables (half-duplex) two-way real-time HD voice over ESP-NOW on ESP32 boards with a speaker and a microphone,
+
+---
+### [fumot 12.000-Puffs Einweg-Vape mit LED-Display - Mikrocontroller.net](https://www.mikrocontroller.net/topic/576220)
+
+---
+### [Overview | ESP-NOW Walkie Talkies | Adafruit Learning System](https://learn.adafruit.com/esp-now-walkie-talkies)
+
+![preview](https://cdn-learn.adafruit.com/guides/images/000/004/509/medium800thumb/handshake.gif)
+
+Ditch the smart phone and communicate with your buddy by building this set of walkie talkies! A Feather ESP32-S3 Reverse TFT runs Arduino code that uses the ESP-NOW protocol to send and receive I2S...
+
+---
