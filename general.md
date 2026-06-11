@@ -266,3 +266,5 @@ Tanaka Masayuki's PCMFlow722 library enables (half-duplex) two-way real-time HD 
 Ditch the smart phone and communicate with your buddy by building this set of walkie talkies! A Feather ESP32-S3 Reverse TFT runs Arduino code that uses the ESP-NOW protocol to send and receive I2S...
 
 ---
+- https://share.google/AJlNoByt0wXUydgio
+---

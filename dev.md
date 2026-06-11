@@ -892,3 +892,73 @@ Free and open implementation of the CMSIS-DAP debugger firmware - ataradov/free-
 market-viewer has 5 repositories available. Follow their code on GitHub.
 
 ---
+### [GitHub - MatixYo/ESP32-Plane-Radar: Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar. · GitHub](https://github.com/MatixYo/ESP32-Plane-Radar)
+
+![preview](https://opengraph.githubassets.com/897d8c8327efcacd41b85eedf62b3690c75b3573739456f6791da5cbbe3b6546/MatixYo/ESP32-Plane-Radar)
+
+Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar. - MatixYo/ESP32-Plane-Radar
+
+---
+### [GitHub - Avinava/glimmer: A pixel-art always-on desk widget for GeekMagic SmallTV-Ultra. Custom firmware that rotates through glanceable channels (Claude/Codex usage, clock, weather, push cards). · GitHub](https://github.com/Avinava/glimmer)
+
+![preview](https://opengraph.githubassets.com/cb3c17757885975178c25c91dfd22fa98190a48700f8de209ec0b3f513dac2fc/Avinava/glimmer)
+
+A pixel-art always-on desk widget for GeekMagic SmallTV-Ultra. Custom firmware that rotates through glanceable channels (Claude/Codex usage, clock, weather, push cards). - Avinava/glimmer
+
+---
+### [GitHub - dorianborian/sesame-robot: An open and affordable mini quadruped robot based on ESP32. · GitHub](https://github.com/dorianborian/sesame-robot/)
+
+![preview](https://opengraph.githubassets.com/4b4dbde2fe02af75c8a2aac9569069276905ee72de34af67f88107aeee500827/dorianborian/sesame-robot)
+
+An open and affordable mini quadruped robot based on ESP32. - dorianborian/sesame-robot
+
+---
+### [GitHub - RealSeaberry/ADS-B-Transit-Predictor: A real-time visualization tool for predicting aircraft transits across the sun and moon, and close encounters, using live ADS-B data. · GitHub](https://github.com/RealSeaberry/ADS-B-Transit-Predictor)
+
+![preview](https://opengraph.githubassets.com/a03fdf2c902ed70b206268d2d32718aba6073890cc8c61c20f2a0fad626a6425/RealSeaberry/ADS-B-Transit-Predictor)
+
+A real-time visualization tool for predicting aircraft transits across the sun and moon, and close encounters, using live ADS-B data. - RealSeaberry/ADS-B-Transit-Predictor
+
+---
+### [GitHub - kaiaai/lds2d: Python driver for YDLIDAR X2/X3/X4, RPLIDAR A1, Xiaomi LDS02RR, Neato XV11, LD14P, CAMSENSE X1, Delta-2A/2B/2G · GitHub](https://github.com/kaiaai/lds2d)
+
+![preview](https://opengraph.githubassets.com/730eff64778d9c8e90eebfdc2973a83b6a2965e60cb5a68d97f5005164b3d021/kaiaai/lds2d)
+
+Python driver for YDLIDAR X2/X3/X4, RPLIDAR A1, Xiaomi LDS02RR, Neato XV11, LD14P, CAMSENSE X1, Delta-2A/2B/2G - kaiaai/lds2d
+
+---
+### [GitHub - haksht/lorecon: LoRa packet capture and analysis tool for ESP32-S3 + SX1262 radio. Focused reconnaissance, sniffing, capture, and replay capabilities with optional PSK testing and hardware stress validation. · GitHub](https://github.com/haksht/lorecon)
+
+![preview](https://opengraph.githubassets.com/f22c1b9a8297ebd99c5542e0f99a0465f5ca7c20dc17911b8853dc65bf59f827/haksht/lorecon)
+
+LoRa packet capture and analysis tool for ESP32-S3 + SX1262 radio. Focused reconnaissance, sniffing, capture, and replay capabilities with optional PSK testing and hardware stress validation. - haksht/lorecon
+
+---
+### [GitHub - mustang6139/sdrtop: Terminal monitor for SDR hardware - written in Rust. Early development. · GitHub](https://github.com/mustang6139/sdrtop)
+
+![preview](https://opengraph.githubassets.com/9daa88891a67f165b8ce6edb29b5e700261c92007f2aa71d68f119b6ffa14de2/mustang6139/sdrtop)
+
+Terminal monitor for SDR hardware - written in Rust. Early development. - mustang6139/sdrtop
+
+---
+### [GitHub - ahmeabd/italia-corpus: A continuously updated, machine-readable corpus of Italian legislation. Clean structure, versioned updates, and ready-to-use data for parsing, search, and analysis. · GitHub](https://github.com/ahmeabd/italia-corpus)
+
+![preview](https://opengraph.githubassets.com/9a4b5d6593d1af680e401b9e40a523bf765084bc0706d4cb0d893640db175c8c/ahmeabd/italia-corpus)
+
+A continuously updated, machine-readable corpus of Italian legislation. Clean structure, versioned updates, and ready-to-use data for parsing, search, and analysis. - ahmeabd/italia-corpus
+
+---
+### [GitHub - kano92-dir/CYD-AI-CHAT · GitHub](https://github.com/kano92-dir/CYD-AI-CHAT)
+
+![preview](https://opengraph.githubassets.com/2ccc317f081b083f8e0226bfbd3a9936ae5456bcd2eb07f9c4c1a235f04b01eb/kano92-dir/CYD-AI-CHAT)
+
+Contribute to kano92-dir/CYD-AI-CHAT development by creating an account on GitHub.
+
+---
+### [GitHub - manaskamal/XenevaOS: The Xeneva Operating System · GitHub](https://github.com/manaskamal/XenevaOS)
+
+![preview](https://repository-images.githubusercontent.com/654025900/67f3ab24-b944-4284-bdbf-905951b74a43)
+
+The Xeneva Operating System. Contribute to manaskamal/XenevaOS development by creating an account on GitHub.
+
+---
