@@ -268,3 +268,24 @@ Ditch the smart phone and communicate with your buddy by building this set of wa
 ---
 - https://share.google/AJlNoByt0wXUydgio
 ---
+### [Paraná, Argentina · StumbleTV](https://stumbletv.alec.is/c/9fc2225b852f136f)
+
+![preview](https://stumbletv.alec.is/api/live/777f72cbb3777506.jpg)
+
+Watching Paraná, Argentina on StumbleTV.
+
+---
+### [The Omega-Chassis: A Modular Backplate for the uConsole | Jing](https://jing.io/projects/the-omega-chassis-a-modular-backplate-for-the-uconsole/#essential-leftorange-vs-ultimate-rightred-model)
+
+![preview](https://jing.io/images/projects/uconsole-omega-chassis/00-cover.jpeg)
+
+A modular endgame backplate for the uConsole designed to expand its capabilities while maintaining portability and ergonomics.
+
+---
+### [BLD-120MM Robot Build Guide — Full Setup Instructions](https://makerspet.com/blog/bld-120mm-pack/)
+
+![preview](https://makerspet.com/wp-content/uploads/2026/04/BLD-120MM-PACK_assembled_robot_front_left.webp)
+
+Complete step-by-step build, firmware, and PC setup instructions for the Maker's Pet BLD-120MM-PACK ROS 2 robot kit. Open-source hardware and software.
+
+---

@@ -962,3 +962,45 @@ Contribute to kano92-dir/CYD-AI-CHAT development by creating an account on GitHu
 The Xeneva Operating System. Contribute to manaskamal/XenevaOS development by creating an account on GitHub.
 
 ---
+### [GitHub - danking6/veltoc: Veltoc Model 01 is a ESP32 powered, retro-inspired environmental monitor with an E-Ink display. It can monitor temperature, humidity and air pressure. Connect to wifi to also display the current time. · GitHub](https://github.com/danking6/veltoc)
+
+![preview](https://opengraph.githubassets.com/96d584186f3cbdc8533e985d6cd3ff072e62665c059bc5823d9c2bc9176cf6e0/danking6/veltoc)
+
+Veltoc Model 01 is a ESP32 powered, retro-inspired environmental monitor with an E-Ink display. It can monitor temperature, humidity and air pressure. Connect to wifi to also display the current time. - danking6/veltoc
+
+---
+### [GitHub - MatixYo/ESP32-Plane-Radar: Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar. · GitHub](https://github.com/MatixYo/ESP32-Plane-Radar)
+
+![preview](https://opengraph.githubassets.com/e683e81d48b0f86f46a45e1cdb15f5ed552bfdf34ba7169a8009c3e81822ea15/MatixYo/ESP32-Plane-Radar)
+
+Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar. - MatixYo/ESP32-Plane-Radar
+
+---
+### [GitHub - dusty-nv/jetson-inference: Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson. · GitHub](https://github.com/dusty-nv/jetson-inference)
+
+![preview](https://repository-images.githubusercontent.com/64561753/b10f49c9-7c3f-467d-8479-4f2db9e3197e)
+
+Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson. - dusty-nv/jetson-inference
+
+---
+### [GitHub - AlexBtlle/pi0-Camera-HomeKit: Turn any Raspberry Pi Zero into a native Apple HomeKit camera for ~$20. Hardware H.264 (rpicam-vid) + SRTP passthrough (ffmpeg) + native pairing (HAP-python). Works on Pi Zero v2 W and v1 W (only if you have a lot of time). · GitHub](https://github.com/AlexBtlle/pi0-Camera-HomeKit)
+
+![preview](https://opengraph.githubassets.com/203c874040311073959406648391170ea1d53bbd5ba01a3e6735477b82fe4dcf/AlexBtlle/pi0-Camera-HomeKit)
+
+Turn any Raspberry Pi Zero into a native Apple HomeKit camera for ~$20. Hardware H.264 (rpicam-vid) + SRTP passthrough (ffmpeg) + native pairing (HAP-python). Works on Pi Zero v2 W and v1 W (only if you have a lot of time). - AlexBtlle/pi0-Camera-HomeKit
+
+---
+### [GitHub - atomic14/esp32-tv: ESP32 - Sound and Vision - Video Streaming to the ESP32 · GitHub](https://github.com/atomic14/esp32-tv)
+
+![preview](https://opengraph.githubassets.com/429b82c88fddd2a204a70479129e707b665d16036b13de88a6bdb5b94e9d4a75/atomic14/esp32-tv)
+
+ESP32 - Sound and Vision - Video Streaming to the ESP32 - atomic14/esp32-tv
+
+---
+### [GitHub - veebch/dbi-pi: The files and instructions to build a Raspberry Pi CM5 based desktop computer that looks like a 1993 Multimedia Workstation · GitHub](https://github.com/veebch/dbi-pi)
+
+![preview](https://opengraph.githubassets.com/83fcb7e3d085b77a32fd3f74ba6b57a4261206db4d0a699a455cba31dafa0f07/veebch/dbi-pi)
+
+The files and instructions to build a Raspberry Pi CM5 based desktop computer that looks like a 1993 Multimedia Workstation - veebch/dbi-pi
+
+---
