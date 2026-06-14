@@ -289,3 +289,22 @@ A modular endgame backplate for the uConsole designed to expand its capabilities
 Complete step-by-step build, firmware, and PC setup instructions for the Maker's Pet BLD-120MM-PACK ROS 2 robot kit. Open-source hardware and software.
 
 ---
+### [Si5331-Driven Transmitter – Beginnings – kk9jef](https://kk9jef.wordpress.com/2016/03/06/si5331-driven-cw-transmitter/)
+
+![preview](https://i0.wp.com/kk9jef.wordpress.com/wp-content/uploads/2016/03/img_0393.jpg?fit=1200%2C900&ssl=1)
+
+In Spring, a young man's fancy turns to thoughts of transmitters. Having recently completed a receiver, and with the weather starting to warm a bit, I've got an itch to actually get on the air and talk back to the stations whose code I can now (slowly, painfully) decode. Re-purposing some hardware and code from…
+
+---
+### [A universal VFO with an Si5351 clock generator – DK7IH Radio & Electronics Engineering](https://dk7ih.de/a-universal-vfo-with-an-si5351-clock-generator/)
+
+---
+### [10kHz to 120MHz VFO / RF Generator with Si5351 and Arduino - Hackster.io](https://www.hackster.io/CesarSound/10khz-to-120mhz-vfo-rf-generator-with-si5351-and-arduino-3a7cad)
+
+![preview](https://hackster.imgix.net/uploads/attachments/1267321/_rhaYmJhYct.blob?auto=compress&w=1600&h=1200&fit=min&fm=jpg)
+
+VFO/RF generator for use in homebrew radio equipment such as direct conversion and superheterodyne receivers or ham transmitters. Find this and other hardware projects on Hackster.io.
+
+---
+- https://www.uni-due.de/imperia/md/content/hft/papers/ft8_and_wspr_using_si5351_and_arduino.pdf
+---

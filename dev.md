@@ -1004,3 +1004,45 @@ ESP32 - Sound and Vision - Video Streaming to the ESP32 - atomic14/esp32-tv
 The files and instructions to build a Raspberry Pi CM5 based desktop computer that looks like a 1993 Multimedia Workstation - veebch/dbi-pi
 
 ---
+### [GitHub - kaiaai/firmware: Platform firmware for Maker's Pet educational Arduino/ROS2 LiDAR robots · GitHub](https://github.com/kaiaai/firmware)
+
+![preview](https://opengraph.githubassets.com/7d93abc2c1e67cc9414cf32a6001e17525e0b115abd68f9d33b9e4ef2502776d/kaiaai/firmware)
+
+Platform firmware for Maker's Pet educational Arduino/ROS2 LiDAR robots - kaiaai/firmware
+
+---
+### [GitHub - kaiaai/kaiaai: ROS2 package for Kaia.ai robots · GitHub](https://github.com/kaiaai/kaiaai)
+
+![preview](https://opengraph.githubassets.com/9a2f81d7f31ccbb8fffa06e6aa49ef0a2a1a6fa2b077aaa6bca9518dda92a011/kaiaai/kaiaai)
+
+ROS2 package for Kaia.ai robots. Contribute to kaiaai/kaiaai development by creating an account on GitHub.
+
+---
+### [store/BDC-30P/v1.1.3/BDC_30P_v113_schematic.pdf at main · makerspet/store · GitHub](https://github.com/makerspet/store/blob/main/BDC-30P/v1.1.3/BDC_30P_v113_schematic.pdf)
+
+![preview](https://opengraph.githubassets.com/974f345d4fe1ae5cb8979e257ac682cd2819681fa4447bf35d5b8ed5c38c0ce0/makerspet/store)
+
+PCB boards for robots compatible with Kaia.ai platform - store/BDC-30P/v1.1.3/BDC_30P_v113_schematic.pdf at main · makerspet/store
+
+---
+### [DDS_VFO/VFO at master · JeffersGlass/DDS_VFO · GitHub](https://github.com/JeffersGlass/DDS_VFO/tree/master/VFO)
+
+![preview](https://opengraph.githubassets.com/44373461592d3aca95e17974530d7965f17204cfc9fab9fbc763ae94098164e0/JeffersGlass/DDS_VFO)
+
+Code for the arduino-controlled VFO based on the Si5351 chip - DDS_VFO/VFO at master · JeffersGlass/DDS_VFO
+
+---
+### [Si5351_VFO/si5351.c at main · DK7IH/Si5351_VFO · GitHub](https://github.com/DK7IH/Si5351_VFO/blob/main/si5351.c)
+
+![preview](https://opengraph.githubassets.com/ee652b9284e28bfc12e171c1526a9e1ec65e3f89f356dee770f8f3069659b315/DK7IH/Si5351_VFO)
+
+Simple control software for ma Si5351 radio frequency oscillator for ham radio projects - Si5351_VFO/si5351.c at main · DK7IH/Si5351_VFO
+
+---
+### [GitHub - pu2clr/SI5351: Multipurpose signal generator with SI5351 · GitHub](https://github.com/pu2clr/SI5351)
+
+![preview](https://opengraph.githubassets.com/4721454703868a5d9a14d35bc6d0347add8c9d89832e186eb7c34cc4343f2236/pu2clr/SI5351)
+
+Multipurpose signal generator with SI5351. Contribute to pu2clr/SI5351 development by creating an account on GitHub.
+
+---
