@@ -308,3 +308,14 @@ VFO/RF generator for use in homebrew radio equipment such as direct conversion a
 ---
 - https://www.uni-due.de/imperia/md/content/hft/papers/ft8_and_wspr_using_si5351_and_arduino.pdf
 ---
+### [RT-Thread | An Open Source Embedded Real-time Operating System](https://www.rt-thread.io/index.html)
+
+An Open Source Embedded Real-time Operating System
+
+---
+- https://ia801801.us.archive.org/27/items/pirate-radio/Pirate_Radio.pdf
+---
+- https://dn760001.eu.archive.org/0/items/PirateRadioFiles/15%20Watt%20FET%20FM%20Amp%20Rev%202%20Assembly%20Instructions.pdf
+---
+- https://dn760001.eu.archive.org/0/items/PirateRadioFiles/Islands%20of%20Resistance%20-%20Free%20Radio.pdf
+---

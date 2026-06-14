@@ -1046,3 +1046,10 @@ Simple control software for ma Si5351 radio frequency oscillator for ham radio p
 Multipurpose signal generator with SI5351. Contribute to pu2clr/SI5351 development by creating an account on GitHub.
 
 ---
+### [GitHub - vuktacic/vdar: Continuous 3D LiDAR Scanner · GitHub](https://github.com/vuktacic/vdar)
+
+![preview](https://opengraph.githubassets.com/fca606b5f427373b4935c58c4c7e815722a4f993324f6d188e428492784ea38d/vuktacic/vdar)
+
+Continuous 3D LiDAR Scanner. Contribute to vuktacic/vdar development by creating an account on GitHub.
+
+---
