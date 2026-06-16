@@ -1053,3 +1053,31 @@ Multipurpose signal generator with SI5351. Contribute to pu2clr/SI5351 developme
 Continuous 3D LiDAR Scanner. Contribute to vuktacic/vdar development by creating an account on GitHub.
 
 ---
+### [GitHub - pollen-robotics/reachy_mini_stl_convexify · GitHub](https://github.com/pollen-robotics/reachy_mini_stl_convexify)
+
+![preview](https://opengraph.githubassets.com/403c77c51f83cbc3b0477cfa41f9026822c8dced0bca4c3d0714c1420f0b1ba0/pollen-robotics/reachy_mini_stl_convexify)
+
+Contribute to pollen-robotics/reachy_mini_stl_convexify development by creating an account on GitHub.
+
+---
+### [GitHub - optikalefx/dadlexa: It's alexa, but it only works with dad · GitHub](https://github.com/optikalefx/dadlexa)
+
+![preview](https://opengraph.githubassets.com/0e1fd64adbdd640f5fd3d85643a904b898d669b6ec1c17842090c6e66389f2e3/optikalefx/dadlexa)
+
+It's alexa, but it only works with dad. Contribute to optikalefx/dadlexa development by creating an account on GitHub.
+
+---
+### [GitHub - akdeb/ElatoAI: Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Toys, Companions, and Devices · GitHub](https://github.com/akdeb/ElatoAI)
+
+![preview](https://opengraph.githubassets.com/7160c8b273f8a9fde87c84e8d5727741ad6554fbfbe7ecae6af672050eb146a0/akdeb/ElatoAI)
+
+Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Toys, Companions, and Devices - akdeb/ElatoAI
+
+---
+### [GitHub - pschatzmann/arduino-libopus: The Opus Codec for Arduino · GitHub](https://github.com/pschatzmann/arduino-libopus)
+
+![preview](https://opengraph.githubassets.com/e2e3ceab95af2b22d22ff85a0865ed9de82b1d5db9ce97c694c8853de4e11a75/pschatzmann/arduino-libopus)
+
+The Opus Codec for Arduino. Contribute to pschatzmann/arduino-libopus development by creating an account on GitHub.
+
+---
