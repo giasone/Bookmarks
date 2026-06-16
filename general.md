@@ -319,3 +319,27 @@ An Open Source Embedded Real-time Operating System
 ---
 - https://dn760001.eu.archive.org/0/items/PirateRadioFiles/Islands%20of%20Resistance%20-%20Free%20Radio.pdf
 ---
+- https://dn760001.eu.archive.org/0/items/PirateRadioFiles/Jpole%20Antenna%20Plans.pdf
+---
+- https://dn760001.eu.archive.org/0/items/PirateRadioFiles/Micropower%20Broadcasting%20Primer.pdf
+---
+- https://dn760001.eu.archive.org/0/items/PirateRadioFiles/Moving%20Onto%20the%20Airwaves.pdf
+---
+### [TinyGS — Open Source Global Satellite Network](https://tinygs.com/#features)
+
+![preview](https://tinygs.com/_astro/default.CVrg2PkM_2qk2jk.jpg)
+
+🚀 TinyGS is the Open Source Global Satellite Network that empowers anyone, anywhere to become a space pioneer.
+
+---
+### [3D CAD models release! - Announcements - Pollen Community](https://forum.pollen-robotics.com/t/3d-cad-models-release/90)
+
+![preview](https://forum.pollen-robotics.com/uploads/default/original/1X/8e5c93e42a45c742a30ea93fa248cbfdd3b03228.gif)
+
+Hello everyone, 
+As we have achieved stability in our Reachy 3D design, it’s time to make the files public and release the 1.0.0! 
+ 
+Sources are released under Creative Commons BY-SA Licenses and available on OnShape. 
+W&hellip;
+
+---
