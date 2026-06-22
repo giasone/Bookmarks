@@ -1116,3 +1116,10 @@ WeatherPaper is a health and comfort-focused smart weather station designed arou
 A ternary, zero-heap tiny language model that runs inside a $2 microcontroller — bit-exact Python <-> C99 <-> Cortex-M3 (QEMU) parity. Apache-2.0. - atome-lm/hardware/esp32-wroom32 at main · TilelliLab/atome-lm
 
 ---
+### [GitHub - kevinmcaleer/Snakie · GitHub](https://github.com/kevinmcaleer/snakie)
+
+![preview](https://opengraph.githubassets.com/c9c8378e4fbb771b3b5291b636a0b6d28c5ae42171d919eb0135e95cc0558e82/kevinmcaleer/Snakie)
+
+Contribute to kevinmcaleer/Snakie development by creating an account on GitHub.
+
+---
