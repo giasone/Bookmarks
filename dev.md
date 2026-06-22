@@ -1081,3 +1081,38 @@ Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and E
 The Opus Codec for Arduino. Contribute to pschatzmann/arduino-libopus development by creating an account on GitHub.
 
 ---
+### [GitHub - kaiaai/LDS: Arduino LiDAR library supporting YDLIDAR X2/X3/X4, RPLIDAR A1, Xiaomi LDS02RR, Neato XV11, LD14P, CAMSENSE X1, Delta-2A/2B/2G · GitHub](https://github.com/kaiaai/LDS)
+
+![preview](https://opengraph.githubassets.com/29cb3bf923d9ab85fbf91138c25b5013f9c819372800eeeb6f12197afc3a4a97/kaiaai/LDS)
+
+Arduino LiDAR library supporting YDLIDAR X2/X3/X4, RPLIDAR A1, Xiaomi LDS02RR, Neato XV11, LD14P, CAMSENSE X1, Delta-2A/2B/2G - kaiaai/LDS
+
+---
+### [GitHub - rtlopez/esp-fc: Flight controller software for hobbyist - build your own flight controller. · GitHub](https://github.com/rtlopez/esp-fc)
+
+![preview](https://opengraph.githubassets.com/4b26718b53a0ca7f1d1e535b8757776e899012806f400b5eda6e64e9d65e811c/rtlopez/esp-fc)
+
+Flight controller software for hobbyist - build your own flight controller. - rtlopez/esp-fc
+
+---
+### [GitHub - technicalaj/beamclaw: Agents delivered by light: an LLM compiles a tiny program off-chip and beams it by screen-light to a radio-less Arduino that runs it forever, offline. Live at beam-claw.com · GitHub](https://github.com/technicalaj/beamclaw)
+
+![preview](https://opengraph.githubassets.com/9eaf0cae99693b11188a7668b97a4019756c506d65c49fcb57f958ee350fd8e1/technicalaj/beamclaw)
+
+Agents delivered by light: an LLM compiles a tiny program off-chip and beams it by screen-light to a radio-less Arduino that runs it forever, offline. Live at beam-claw.com - technicalaj/beamclaw
+
+---
+### [GitHub - ngai-jeremy/WeatherPaper: WeatherPaper is a health and comfort-focused smart weather station designed around a 4.2-inch e-paper display and a custom PCB. Lasting over one year and a half on a single charge. Featured on XDA Developers! · GitHub](https://github.com/ngai-jeremy/WeatherPaper)
+
+![preview](https://repository-images.githubusercontent.com/1269254275/6ee09128-befa-4f36-bffd-a7d23b95fd98)
+
+WeatherPaper is a health and comfort-focused smart weather station designed around a 4.2-inch e-paper display and a custom PCB. Lasting over one year and a half on a single charge. Featured on XDA Developers! - ngai-jeremy/WeatherPaper
+
+---
+### [atome-lm/hardware/esp32-wroom32 at main · TilelliLab/atome-lm · GitHub](https://github.com/TilelliLab/atome-lm/tree/main/hardware/esp32-wroom32)
+
+![preview](https://opengraph.githubassets.com/405b1693e1aec619ff19c43f9012ca1f5e70c99206f44681112910221cb65532/TilelliLab/atome-lm)
+
+A ternary, zero-heap tiny language model that runs inside a $2 microcontroller — bit-exact Python <-> C99 <-> Cortex-M3 (QEMU) parity. Apache-2.0. - atome-lm/hardware/esp32-wroom32 at main · TilelliLab/atome-lm
+
+---
