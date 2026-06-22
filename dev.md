@@ -1123,3 +1123,38 @@ A ternary, zero-heap tiny language model that runs inside a $2 microcontroller �
 Contribute to kevinmcaleer/Snakie development by creating an account on GitHub.
 
 ---
+### [GitHub - peterhinch/micropython-micro-gui: A lightweight MicroPython GUI library for display drivers based on framebuf, allows input via pushbuttons. See also micropython-touch. · GitHub](https://github.com/peterhinch/micropython-micro-gui)
+
+![preview](https://opengraph.githubassets.com/9b9f63b09f947993cf555c8e73004fb0017f43756eaa06bf3680f1118e77d80a/peterhinch/micropython-micro-gui)
+
+A lightweight MicroPython GUI library for display drivers based on framebuf, allows input via pushbuttons. See also micropython-touch. - peterhinch/micropython-micro-gui
+
+---
+### [GitHub - mcauser/awesome-micropython: A curated list of awesome MicroPython libraries, frameworks, software and resources. · GitHub](https://github.com/mcauser/awesome-micropython)
+
+![preview](https://repository-images.githubusercontent.com/123274703/22aba780-97ae-11ea-9a99-da5aa92461fa)
+
+A curated list of awesome MicroPython libraries, frameworks, software and resources. - mcauser/awesome-micropython
+
+---
+### [GitHub - kritishmohapatra/100_Days_100_IoT_Projects: A 100-day challenge exploring IoT and embedded systems using ESP32, ESP8266, and Raspberry Pi Pico with MicroPython. Each day covers a new sensor or module with complete code, circuit diagram, and explanation. · GitHub](https://github.com/kritishmohapatra/100_Days_100_IoT_Projects)
+
+![preview](https://repository-images.githubusercontent.com/1074035698/f0989a14-1b4f-4fbc-ac74-649af9f99942)
+
+A 100-day challenge exploring IoT and embedded systems using ESP32, ESP8266, and Raspberry Pi Pico with MicroPython. Each day covers a new sensor or module with complete code, circuit diagram, and explanation. - kritishmohapatra/100_Days_100_IoT_Projects
+
+---
+### [GitHub - BxNxM/micrOS: micrOS - mini asynchronous automation OS for DIY projects. · GitHub](https://github.com/BxNxM/micrOS)
+
+![preview](https://opengraph.githubassets.com/af75b9ffcf295de49a0f69c5166c2d64c00b5570af4a75f86082abf98af08f97/BxNxM/micrOS)
+
+micrOS - mini asynchronous automation OS for DIY projects.  - GitHub - BxNxM/micrOS: micrOS - mini asynchronous automation OS for DIY projects.
+
+---
+### [GitHub - GlobalSequence/iosefka: hybrid digital analog synthesizer · GitHub](https://github.com/globalsequence/iosefka)
+
+![preview](https://opengraph.githubassets.com/69ff0d4a798dc185454cea1b9189e2d2a06bf095e3aace421001c83f9066b004/GlobalSequence/iosefka)
+
+hybrid digital analog synthesizer. Contribute to GlobalSequence/iosefka development by creating an account on GitHub.
+
+---
