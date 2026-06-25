@@ -1158,3 +1158,31 @@ micrOS - mini asynchronous automation OS for DIY projects.  - GitHub - BxNxM/mic
 hybrid digital analog synthesizer. Contribute to GlobalSequence/iosefka development by creating an account on GitHub.
 
 ---
+### [GitHub - lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth: All in one acid bassline and groove box - run off a Raspberry Pi · GitHub](https://github.com/lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth)
+
+![preview](https://opengraph.githubassets.com/36f2bb82a224efcbc86a6424f9bb2779a4353ed89594468fab835badde36fe6f/lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth)
+
+All in one acid bassline and groove box - run off a Raspberry Pi - lonesoulsurfer/Acid_Drip_Bassline_and_Drum_Synth
+
+---
+### [GitHub - brer-rabbit/zoxnoxious: Analog synth / software interface · GitHub](https://github.com/brer-rabbit/zoxnoxious)
+
+![preview](https://opengraph.githubassets.com/f65121e7b7798a94d38dcbf0ce7da1c15c2024a95670187f6b9424c9cb6e44a7/brer-rabbit/zoxnoxious)
+
+Analog synth / software interface. Contribute to brer-rabbit/zoxnoxious development by creating an account on GitHub.
+
+---
+### [GitHub - nilseuropa/solar_os: SolarOS is a small text-first pocket terminal OS · GitHub](https://github.com/nilseuropa/solar_os)
+
+![preview](https://opengraph.githubassets.com/4cd229066d6e4e73e60d9052683804c2b4b36f62f381ad9a771f4875af60a12e/nilseuropa/solar_os)
+
+SolarOS is a small text-first pocket terminal OS . Contribute to nilseuropa/solar_os development by creating an account on GitHub.
+
+---
+### [InkHUD: add offline map tile backgrounds and zoom controls by HarukiToreda · Pull Request #10785 · meshtastic/firmware · GitHub](https://github.com/meshtastic/firmware/pull/10785)
+
+![preview](https://opengraph.githubassets.com/7bd39629051a45b1e643f6f3891bad5204e09ed2d06353051bec26ac0cdca89b/meshtastic/firmware/pull/10785)
+
+The official firmware for Meshtastic, an open-source, off-grid mesh communication system. - InkHUD: add offline map tile backgrounds and zoom controls by HarukiToreda · Pull Request #10785 · meshtastic/firmware
+
+---
