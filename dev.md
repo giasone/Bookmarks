@@ -1186,3 +1186,31 @@ SolarOS is a small text-first pocket terminal OS . Contribute to nilseuropa/sola
 The official firmware for Meshtastic, an open-source, off-grid mesh communication system. - InkHUD: add offline map tile backgrounds and zoom controls by HarukiToreda · Pull Request #10785 · meshtastic/firmware
 
 ---
+### [GitHub - HarukiToreda/E-ink-Map-Tiles · GitHub](https://github.com/HarukiToreda/E-ink-Map-Tiles)
+
+![preview](https://opengraph.githubassets.com/494a981a996f6ca390c68573ca609b9a1b06e97fcfc7d04651bd4d7cf897e933/HarukiToreda/E-ink-Map-Tiles)
+
+Contribute to HarukiToreda/E-ink-Map-Tiles development by creating an account on GitHub.
+
+---
+### [GitHub - ArtusIndus/PiCar-X-Line-Following-with-OpenCV-and-Picamera2: A line-following robot for the PiCar-X using OpenCV and Picamera2. The system detects a white track in real time, calculates its position using image moments, and adjusts the steering angle to keep the vehicle centered on the path. Built for autonomous navigation experiments on Raspberry Pi. · GitHub](https://github.com/ArtusIndus/PiCar-X-Line-Following-with-OpenCV-and-Picamera2)
+
+![preview](https://opengraph.githubassets.com/431352ae20caebb431439e5170aab3b0b5f181bf07a4cfa438a0d9e11ec0caa2/ArtusIndus/PiCar-X-Line-Following-with-OpenCV-and-Picamera2)
+
+A line-following robot for the PiCar-X using OpenCV and Picamera2. The system detects a white track in real time, calculates its position using image moments, and adjusts the steering angle to keep the vehicle centered on the path. Built for autonomous navigation experiments on Raspberry Pi. - ArtusIndus/PiCar-X-Line-Following-with-OpenCV-and-Picamera2
+
+---
+### [GitHub - Formsmith746/SketchForge-3D: A local-first browser 3D design editor for building, cutting, importing STL files, and exporting models. · GitHub](https://github.com/Formsmith746/SketchForge-3D)
+
+![preview](https://opengraph.githubassets.com/3833f79cfa6265f604df852b6c0a4821668a12f31aa23ca4121a003a6c6b8139/Formsmith746/SketchForge-3D)
+
+A local-first browser 3D design editor for building, cutting, importing STL files, and exporting models. - Formsmith746/SketchForge-3D
+
+---
+### [GitHub - Nx-Nass/Nasscad_4.2.7: Offline single-file 3D CAD — Manifold WASM CSG / Three.js · GitHub](https://github.com/Nx-Nass/Nasscad_4.2.7)
+
+![preview](https://opengraph.githubassets.com/b46ab840bd303b16dd459ce81b91eac0ff614e4de0a6c591c1cd829369cdafdf/Nx-Nass/Nasscad_4.2.7)
+
+Offline single-file 3D CAD — Manifold WASM CSG / Three.js  - GitHub - Nx-Nass/Nasscad_4.2.7: Offline single-file 3D CAD — Manifold WASM CSG / Three.js
+
+---
