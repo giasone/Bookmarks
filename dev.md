@@ -1249,3 +1249,31 @@ KiCAD template for custom uConsole expansion card. Contribute to PotatoMania/uco
 uConsole RP2040 Expansion Card. Contribute to dotcypress/upico development by creating an account on GitHub.
 
 ---
+### [GitHub - dotcypress/uhub: uConsole USB Hub Expansion Card · GitHub](https://github.com/dotcypress/uhub)
+
+![preview](https://opengraph.githubassets.com/70a51d2327039da6685569801723f9bf9654e7390519ac56f4cbbea46c66c156/dotcypress/uhub)
+
+uConsole USB Hub Expansion Card. Contribute to dotcypress/uhub development by creating an account on GitHub.
+
+---
+### [GitHub - baairon/torlink: A sleek, zero-setup torrent finder and downloader that lives right in your terminal. · GitHub](https://github.com/baairon/torlink)
+
+![preview](https://repository-images.githubusercontent.com/1280278993/6f2be8ff-6716-4954-8c87-27aa51056da5)
+
+A sleek, zero-setup torrent finder and downloader that lives right in your terminal. - baairon/torlink
+
+---
+### [GitHub - LennoxLow/esp32-modular-keys: A custom hotkey Using the esp32c3 that fires UDP messages and serial commands · GitHub](https://github.com/LennoxLow/esp32-modular-keys)
+
+![preview](https://opengraph.githubassets.com/0074f7f2e5d313e86ed194eb8cf32c971f85e2d41b54c28519bcb56eaac7bf0a/LennoxLow/esp32-modular-keys)
+
+A custom hotkey Using the esp32c3 that fires UDP messages and serial commands - LennoxLow/esp32-modular-keys
+
+---
+### [GitHub - emir173/ESP32-Flight-Tracker: A near real-time, standalone ESP32-S3 Flight Tracker utilizing the OpenSky API · GitHub](https://github.com/emir173/ESP32-Flight-Tracker)
+
+![preview](https://opengraph.githubassets.com/0573b099fc7ac992ff80f3696135bc258fdd8da89a32b6c994550e803cc7402b/emir173/ESP32-Flight-Tracker)
+
+A near real-time, standalone ESP32-S3 Flight Tracker utilizing the OpenSky API - emir173/ESP32-Flight-Tracker
+
+---

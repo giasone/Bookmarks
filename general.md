@@ -371,3 +371,11 @@ Why This    As stated in  previous article  ，I wrote  python drivers  for
 Browser-only SketchForge 3D demo. Vercel hosts the site; editing runs locally on your computer.
 
 ---
+### [uConsole extension board directory - uConsole - clockworkpi](https://forum.clockworkpi.com/t/uconsole-extension-board-directory/22474)
+
+![preview](https://yyz1.discourse-cdn.com/flex029/images/discourse-logo-sketch-small.png)
+
+This is a part of the uConsole hardware directory and has been made its own post to make room for more content in there. This directory appears to be complete, but please reply if a board is missing. 
+As HackerGadgets’ A&hellip;
+
+---
