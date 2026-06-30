@@ -1214,3 +1214,38 @@ A local-first browser 3D design editor for building, cutting, importing STL file
 Offline single-file 3D CAD — Manifold WASM CSG / Three.js  - GitHub - Nx-Nass/Nasscad_4.2.7: Offline single-file 3D CAD — Manifold WASM CSG / Three.js
 
 ---
+### [GitHub - VarinderSS1113/Caliber: Photos in. Printable 3D model out. · GitHub](https://github.com/VarinderSS1113/Caliber)
+
+![preview](https://opengraph.githubassets.com/4b078a0232abbffdfea0f48c1e2edcd9a02890c772ab9a8677a59093f4e6684b/VarinderSS1113/Caliber)
+
+Photos in. Printable 3D model out. Contribute to VarinderSS1113/Caliber development by creating an account on GitHub.
+
+---
+### [uConsole/clockwork_UC_4G_Schematic.pdf at master · clockworkpi/uConsole · GitHub](https://github.com/clockworkpi/uConsole/blob/master/clockwork_UC_4G_Schematic.pdf)
+
+![preview](https://opengraph.githubassets.com/8c195848bc48c2919772c91bc182094d8870f9bd6caea3762f24434dca5f27dd/clockworkpi/uConsole)
+
+This code repository offers downloads for the latest images of various uConsole models, along with kernel patches, firmware for the keyboard and 4G expansion module, hardware schematics, assembly instructions, and essential technical documents. - uConsole/clockwork_UC_4G_Schematic.pdf at master · clockworkpi/uConsole
+
+---
+### [GitHub - AleReb/uEXC: expansion port for uConsole · GitHub](https://github.com/AleReb/uEXC/tree/main)
+
+![preview](https://opengraph.githubassets.com/f23c2257b169f9ca807dca4468d848582914a666e75a95fa3d56306ee6e81cd6/AleReb/uEXC)
+
+expansion port for uConsole. Contribute to AleReb/uEXC development by creating an account on GitHub.
+
+---
+### [GitHub - PotatoMania/uconsole-expansion-card-template-kicad: KiCAD template for custom uConsole expansion card · GitHub](https://github.com/PotatoMania/uconsole-expansion-card-template-kicad)
+
+![preview](https://opengraph.githubassets.com/95218f227738fd9739c2ffeb0be52ce9f7eefecdf56ac1822bdfe1c75da2bf24/PotatoMania/uconsole-expansion-card-template-kicad)
+
+KiCAD template for custom uConsole expansion card. Contribute to PotatoMania/uconsole-expansion-card-template-kicad development by creating an account on GitHub.
+
+---
+### [GitHub - dotcypress/upico: uConsole RP2040 Expansion Card · GitHub](https://github.com/dotcypress/upico)
+
+![preview](https://opengraph.githubassets.com/f7ba41bce3b8678addb28948e1fc1c87b2bbc2cd68353d0c6dbb392a224a7d35/dotcypress/upico)
+
+uConsole RP2040 Expansion Card. Contribute to dotcypress/upico development by creating an account on GitHub.
+
+---
