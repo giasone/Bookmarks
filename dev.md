@@ -1277,3 +1277,45 @@ A custom hotkey Using the esp32c3 that fires UDP messages and serial commands - 
 A near real-time, standalone ESP32-S3 Flight Tracker utilizing the OpenSky API - emir173/ESP32-Flight-Tracker
 
 ---
+### [GitHub - malaq88/DisplayConnect · GitHub](https://github.com/malaq88/DisplayConnect)
+
+![preview](https://opengraph.githubassets.com/8dda186ef780506b1b2e59a00008734809f9e300fdaec5f0fdcc89ad35a727ae/malaq88/DisplayConnect)
+
+Contribute to malaq88/DisplayConnect development by creating an account on GitHub.
+
+---
+### [GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. · GitHub](https://github.com/apple/container)
+
+![preview](https://repository-images.githubusercontent.com/993475914/123bf50d-9ae2-48d9-94f7-7a345bf82c15)
+
+A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  - GitHub - apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+
+---
+### [GitHub - TilelliLab/atome-lm: A ternary, zero-heap tiny language model that runs inside a $2 microcontroller — bit-exact Python <-> C99 <-> Cortex-M3 (QEMU) parity. Apache-2.0. · GitHub](https://github.com/TilelliLab/atome-lm)
+
+![preview](https://opengraph.githubassets.com/7c1378c1a1ccc1aaba50e4b7b7eedb15c852462a418bdca8ae938a8a8bdd8e57/TilelliLab/atome-lm)
+
+A ternary, zero-heap tiny language model that runs inside a $2 microcontroller — bit-exact Python <-> C99 <-> Cortex-M3 (QEMU) parity. Apache-2.0. - TilelliLab/atome-lm
+
+---
+### [GitHub - precious112/caret-ide: Caret IDE — a branded VS Code build with Caret built in. AI-native design-as-code in your editor: design and code, one and the same. (Caret + VSCodium.) · GitHub](https://github.com/precious112/caret-ide)
+
+![preview](https://repository-images.githubusercontent.com/1274179498/51d7fd27-cedd-4feb-8f12-2d132c096615)
+
+Caret IDE — a branded VS Code build with Caret built in. AI-native design-as-code in your editor: design and code, one and the same. (Caret + VSCodium.) - precious112/caret-ide
+
+---
+### [ROS_Resources/Jason M. O’Kane——《A Gentle Introduction to ROS》/A Gentle Introduction to ROS.pdf at master · sychaichangkun/ROS_Resources · GitHub](https://github.com/sychaichangkun/ROS_Resources/blob/master/Jason%20M.%20O%E2%80%99Kane%E2%80%94%E2%80%94%E3%80%8AA%20Gentle%20Introduction%20to%20ROS%E3%80%8B/A%20Gentle%20Introduction%20to%20ROS.pdf)
+
+![preview](https://opengraph.githubassets.com/bf580f9b2ce30cc52364c649183b6a34b61cf819b5a29179bccdab34fe3240ff/sychaichangkun/ROS_Resources)
+
+ROS学习资料汇总    A collection of ROS teaching materials - ROS_Resources/Jason M. O’Kane——《A Gentle Introduction to ROS》/A Gentle Introduction to ROS.pdf at master · sychaichangkun/ROS_Resources
+
+---
+### [GitHub - Protonverse-Labs/proton-ai-core-vision-plus: ESP32-S3 camera dev board with onboard IMU, secure element, I/O expander, mic, and microSD — Proton AI Core Vision+ by Protonverse. · GitHub](https://github.com/Protonverse-Labs/proton-ai-core-vision-plus)
+
+![preview](https://opengraph.githubassets.com/7b7b14d0b1a580c381521c51a3caffc9c3f789829b092eafb59deaf9d3a9873b/Protonverse-Labs/proton-ai-core-vision-plus)
+
+ESP32-S3 camera dev board with onboard IMU, secure element, I/O expander, mic, and microSD — Proton AI Core Vision+ by Protonverse. - Protonverse-Labs/proton-ai-core-vision-plus
+
+---
