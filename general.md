@@ -468,3 +468,10 @@ Scan any address for tokens stranded in smart wallets, plus unclaimed rewards an
 A living planet shaped by code. Every GitHub commit, PR and review claims new ground. Explore the map and see where you rank.
 
 ---
+### [Upgrade your Radiomaster Pocket with more switches - YouTube](https://m.youtube.com/watch?v=zxzVlCIHbjg)
+
+![preview](https://i.ytimg.com/vi/zxzVlCIHbjg/maxresdefault.jpg)
+
+Adding switches to a Radiomaster Pocket is easier than you think. Its main board is very similar to a Zorro, so there are spare pins you can easily wire up. ...
+
+---

@@ -1815,3 +1815,31 @@ Build instructions for a SolarOS pocket terminal. Contribute to nilseuropa/solar
 ---
 - https://github.com/jub0t/WolfCut/tree/main/desktop
 ---
+### [GitHub - Schengatto/trade-republic-analyzer · GitHub](https://github.com/Schengatto/trade-republic-analyzer)
+
+![preview](https://opengraph.githubassets.com/1a4fe8fe2437bd20d87e92cb42a6e8989b92ac14ef486ec52101bb8c40952900/Schengatto/trade-republic-analyzer)
+
+Contribute to Schengatto/trade-republic-analyzer development by creating an account on GitHub.
+
+---
+### [GitHub - vicoa-ai/vicoa: Vicoa is the ADE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable. · GitHub](https://github.com/vicoa-ai/vicoa)
+
+![preview](https://opengraph.githubassets.com/d68a7b7fb3e09dead22dead1738c1011d567266bab8b2cb8e286d5a2c3d9baa5/vicoa-ai/vicoa)
+
+Vicoa is the ADE for running a team of coding agents from any device. Desktop, mobile, VPS, open-source, self-hostable. - vicoa-ai/vicoa
+
+---
+### [GitHub - KentuckyFriedBlyat/ciphervault: One-time pad workspace for secure communications · GitHub](https://github.com/KentuckyFriedBlyat/ciphervault)
+
+![preview](https://opengraph.githubassets.com/3e35f96db2eaf60c5cc4f48473f19adedb1fb0043151f0aafdb4cc9a28957f30/KentuckyFriedBlyat/ciphervault)
+
+One-time pad workspace for secure communications. Contribute to KentuckyFriedBlyat/ciphervault development by creating an account on GitHub.
+
+---
+### [GitHub - hardcoreerik/OrcSDR: Portable touchscreen SDR for M5Stack Tab5 + RTL-SDR Blog V4 — spectrum, waterfall, FM/RDS, ADS-B, P25, LoRa, RF tools, and Wi-Fi analysis without a PC. · GitHub](https://github.com/hardcoreerik/OrcSDR)
+
+![preview](https://opengraph.githubassets.com/78e95ed5437b0ab9b2d73a85101f43940125adc6ea36b68f3ff6d83dc7cda2a5/hardcoreerik/OrcSDR)
+
+Portable touchscreen SDR for M5Stack Tab5 + RTL-SDR Blog V4 — spectrum, waterfall, FM/RDS, ADS-B, P25, LoRa, RF tools, and Wi-Fi analysis without a PC. - hardcoreerik/OrcSDR
+
+---
