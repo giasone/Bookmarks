@@ -379,3 +379,92 @@ This is a part of the uConsole hardware directory and has been made its own post
 As HackerGadgets’ A&hellip;
 
 ---
+
+### [Terra Radionavigation Technology](https://www.terra-rnt.com/index.html)
+
+---
+### [SketchForge 3D Editor | Free Tinkercad Alternative](https://sketchforge3d.com/)
+
+Create, edit, combine, import, and export 3D models with SketchForge, a free Tinkercad alternative that works directly in your browserâno account required.
+
+---
+### [Login | Shop Deutsche Post](https://shop.deutschepost.de/shop/login_page.jsp)
+
+Login
+
+---
+- https://www.hackster.io/Gokux/sony-camera-bluetooth-remote-f94922
+---
+### [ping — message my receipt printer](https://ping.garethvjones.dev/)
+
+Type a message and it prints on the thermal receipt printer on my desk. Instantly. On paper.
+
+---
+### [Run Ultralytics YOLO on Raspberry Pi with OpenVINO - Raspberry Pi](https://www.raspberrypi.com/news/run-ultralytics-yolo-on-raspberry-pi-with-openvino/)
+
+![preview](https://www.raspberrypi.com/app/uploads/2026/07/OpenVINO-1024x576.jpg)
+
+A practical guide to deploying Ultralytics YOLO computer vision models at the edge with Raspberry Pi and OpenVINO.
+
+---
+### [Build PCBs with a prompt | Cherry Blossom](https://www.trycherryblossom.com/#how-it-works)
+
+![preview](https://www.trycherryblossom.com/seo/og.png)
+
+Describe a circuit board in plain English. Cherry Blossom builds a schematic, PCB layout, and fab-ready files, checking each AI edit before you order.
+
+---
+### [SpiralCode — Curve → Spiral G-Code](https://spiralcode.at/)
+
+---
+### [YPC — finger-drum any YouTube video](https://ypc2000.fun/)
+
+![preview](https://ypc2000.fun/og.png)
+
+A free MPC-style pad sampler for YouTube. Paste a link, get a 4×4 pad grid mapped across the video, and finger-drum it from your keyboard, touch screen, or MIDI controller. No downloads, no account.
+
+---
+- https://osrtos.com/projects/esp32-flight-tracker/
+---
+### [3D Printable PCB Solder Paste Stencil from Gerber Files | Stenchill](https://www.stenchill.com/en/)
+
+![preview](https://www.stenchill.com/og-image.png)
+
+Free DIY online tool to generate 3D-printable solder paste stencils from your Gerber files. Convert Gerber to STL/3MF for FDM 3D printing at home. Compatible with KiCad, Eagle, Altium. Free PCB stencil generator for SMD/SMT reflow soldering.
+
+---
+### [DWeb Camp](https://dwebcamp.org/)
+
+![preview](./static/img/DWebCamp-2026-meta-image.jpg?year=2026.03)
+
+DWeb Camp
+
+---
+### [Roamers — endless GitHub discovery](https://roamers.dev/)
+
+![preview](https://roamers.dev/opengraph-image?c3d1c0902047d18f)
+
+Doomscroll through GitHub. Roamers is an endless, personalized feed of interesting open-source projects — surface hidden gems you'd never find through search.
+
+---
+### [PartReel — Free KiCad footprints, symbols & 3D models. No login.](https://partreel.com/)
+
+Open KiCad component registry: datasheet-derived footprints, symbols and 3D models (STEP/GLB). No sign-up, instant download, quality-gated. Built for humans and AI agents.
+
+---
+### [Token Saver](https://tokensaver.fyi/)
+
+![preview](https://tokensaver.fyi/og.png)
+
+Scan any address for tokens stranded in smart wallets, plus unclaimed rewards and airdrops. Free, and the scan runs in your browser.
+
+---
+- https://rai-lander.itch.io/pixela
+---
+### [The dev world - Claim your developer territory](https://thedev.world/)
+
+![preview](https://thedev.world/og/home)
+
+A living planet shaped by code. Every GitHub commit, PR and review claims new ground. Explore the map and see where you rank.
+
+---

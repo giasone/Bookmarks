@@ -1319,3 +1319,499 @@ ROS学习资料汇总    A collection of ROS teaching materials - ROS_Resources/
 ESP32-S3 camera dev board with onboard IMU, secure element, I/O expander, mic, and microSD — Proton AI Core Vision+ by Protonverse. - Protonverse-Labs/proton-ai-core-vision-plus
 
 ---
+
+### [GitHub - MayaPosch/NymphCast: Audio and video casting system with support for custom applications. · GitHub](https://github.com/MayaPosch/NymphCast)
+
+![preview](https://opengraph.githubassets.com/dd8a3faf192523eef4949e3a5f4173216fbc053ceb95b3f0baf3629df1c48a21/MayaPosch/NymphCast)
+
+Audio and video casting system with support for custom applications. - MayaPosch/NymphCast
+
+---
+### [GitHub - jauzin23/CAMron: Browser-based ESP32-CAM firmware flashing and camera management. Self-hosted, local, no code · GitHub](https://github.com/jauzin23/CAMron)
+
+![preview](https://repository-images.githubusercontent.com/1281258454/73961c5c-4139-40c9-8a37-73e634db65f8)
+
+Browser-based ESP32-CAM firmware flashing and camera management. Self-hosted, local, no code - jauzin23/CAMron
+
+---
+### [GitHub - clackups/draftling: A writerdeck firmware for ESP32-S3 and ESP32-P4 devices · GitHub](https://github.com/clackups/draftling)
+
+![preview](https://opengraph.githubassets.com/b4c439e5252399a7d52913a767e4b33b53175a537dfe16173a0383c5df2d700b/clackups/draftling)
+
+A writerdeck firmware for ESP32-S3 and ESP32-P4 devices - clackups/draftling
+
+---
+### [GitHub - benikum/OpenCurtainLab: Open source ESP32 shutter speed tester for analog cameras with five optical sensors, flash sync detection, OLED control, and a browser-based analysis UI. · GitHub](https://github.com/benikum/OpenCurtainLab)
+
+![preview](https://opengraph.githubassets.com/3649bd9ee3bd76089ef3999164ce4925a3d625a82dc63edfe96e97c55c0775bb/benikum/OpenCurtainLab)
+
+Open source ESP32 shutter speed tester for analog cameras with five optical sensors, flash sync detection, OLED control, and a browser-based analysis UI. - benikum/OpenCurtainLab
+
+---
+### [GitHub - tildearrow/furnace: a multi-system chiptune tracker compatible with DefleMask modules · GitHub](https://github.com/tildearrow/furnace)
+
+![preview](https://opengraph.githubassets.com/1ac2cf25f295dad6c8ea42df1e908dfa23b02f23c3b89ffecd2d90fda55fab05/tildearrow/furnace)
+
+a multi-system chiptune tracker compatible with DefleMask modules - tildearrow/furnace
+
+---
+### [GitHub - wagiminator/ATtiny85-IR2USB: IR Remote to USB HID Converter · GitHub](https://github.com/wagiminator/ATtiny85-IR2USB)
+
+![preview](https://repository-images.githubusercontent.com/407645852/31268591-483e-4b1c-8e8d-62d42d8b70d6)
+
+IR Remote to USB HID Converter. Contribute to wagiminator/ATtiny85-IR2USB development by creating an account on GitHub.
+
+---
+### [GitHub - NBalciunas/kicad-img2silk: KiCad plugin that dithers images into PCB graphics with Floyd–Steinberg, Atkinson, Bayer, and other algorithms, in black and white or in multiple colors using the board itself as a palette. · GitHub](https://github.com/NBalciunas/kicad-img2silk)
+
+![preview](https://opengraph.githubassets.com/c724a7868f0a8b55ce942b32ff794cfaaced5524f9fcf74fc1f4c77273a202b2/NBalciunas/kicad-img2silk)
+
+KiCad plugin that dithers images into PCB graphics with Floyd–Steinberg, Atkinson, Bayer, and other algorithms, in black and white or in multiple colors using the board itself as a palette. - NBalciunas/kicad-img2silk
+
+---
+### [noodle/collections at main · wilfredinni/noodle · GitHub](https://github.com/wilfredinni/noodle/tree/main/collections)
+
+![preview](https://repository-images.githubusercontent.com/1279660735/eec6c7f3-831c-439b-8c31-d7dce84ce94e)
+
+A delicious REST client for your terminal. Contribute to wilfredinni/noodle development by creating an account on GitHub.
+
+---
+### [robotics_ebooks/Build Your Own Combat Robot - Pete Miles.pdf at master · jimmyval92/robotics_ebooks · GitHub](https://github.com/listofbanned/robotics_ebooks/blob/master/Build%20Your%20Own%20Combat%20Robot%20-%20Pete%20Miles.pdf)
+
+![preview](https://opengraph.githubassets.com/085a13ea0203d16cb6620790b73040896a9ebaec5e396164bea9cc82c72dd376/jimmyval92/robotics_ebooks)
+
+A collection of robotics ebooks. Contribute to jimmyval92/robotics_ebooks development by creating an account on GitHub.
+
+---
+### [GitHub - alibaba/page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language. · GitHub](https://github.com/alibaba/page-agent)
+
+![preview](https://repository-images.githubusercontent.com/1062458369/4f9a1671-3953-4f45-8a8e-b010e33520bc)
+
+JavaScript in-page GUI agent. Control web interfaces with natural language. - alibaba/page-agent
+
+---
+### [GitHub - calf-ai/calfkit-sdk: 🐮 Build distributed, event-driven agents · GitHub](https://github.com/calf-ai/calfkit-sdk)
+
+![preview](https://repository-images.githubusercontent.com/1130664672/18b1d37e-e705-40c2-96e9-d3d3c1a74a21)
+
+🐮 Build distributed, event-driven agents. Contribute to calf-ai/calfkit-sdk development by creating an account on GitHub.
+
+---
+### [GitHub - paulpacifico/shutter-encoder: A professional video compression tool accessible to all, mostly based on FFmpeg. · GitHub](https://github.com/paulpacifico/shutter-encoder)
+
+![preview](https://repository-images.githubusercontent.com/262382962/4afe3247-9dcc-4166-956a-9a3a17ef2ff5)
+
+A professional video compression tool accessible to all, mostly based on FFmpeg. - paulpacifico/shutter-encoder
+
+---
+### [GitHub - ankurCES/uconsole-cybertui: TUI + companion web UI for managing a uconsole-style cyberdeck: audio, bluetooth, network, processes, packages, power, display, storage. · GitHub](https://github.com/ankurCES/uconsole-cybertui)
+
+![preview](https://opengraph.githubassets.com/c3b4ed2e6bedb906ab6c2f6ffb80fb25e6d060fe74defdc3341c0e57d1bebb5b/ankurCES/uconsole-cybertui)
+
+TUI + companion web UI for managing a uconsole-style cyberdeck: audio, bluetooth, network, processes, packages, power, display, storage. - ankurCES/uconsole-cybertui
+
+---
+### [GitHub - AlexBtlle/pi4-IA-Homekit-Camera: Turn a Raspberry Pi Zero 2W or Pi 3 - 4 into a Apple HomeKit camera with motion detection. · GitHub](https://github.com/AlexBtlle/pi4-IA-Homekit-Camera)
+
+![preview](https://opengraph.githubassets.com/0cbb077823c95e1a258e0d032b8feac9556421af076994c170505e7f0a2c818a/AlexBtlle/pi4-IA-Homekit-Camera)
+
+Turn a Raspberry Pi Zero 2W or Pi 3 - 4 into a Apple HomeKit camera with motion detection. - AlexBtlle/pi4-IA-Homekit-Camera
+
+---
+### [GitHub - andrewliyanage83/Drone-Finder-ELRS-Pocket: Drone finder ELRS for Radiomaster Pocket · GitHub](https://github.com/andrewliyanage83/Drone-Finder-ELRS-Pocket)
+
+![preview](https://opengraph.githubassets.com/7ea112817f5da3b734f1622272dd2f831b57370805aeced8d59a0f8a323c53be/andrewliyanage83/Drone-Finder-ELRS-Pocket)
+
+Drone finder ELRS for Radiomaster Pocket. Contribute to andrewliyanage83/Drone-Finder-ELRS-Pocket development by creating an account on GitHub.
+
+---
+### [GitHub - iamsunilchahal/edgetx-lua-scripts-bw: A growing collection of EdgeTX Lua scripts for Radiomaster, Jumper, and other OpenTX/EdgeTX radios. Includes tools, telemetry pages, and model helpers optimized for black-and-white screens like the Radiomaster Boxer. · GitHub](https://github.com/iamsunilchahal/edgetx-lua-scripts-bw)
+
+![preview](https://opengraph.githubassets.com/d18514d94ad91a24bc8e771532a0ce9efaaf65e988734bbef111c8db9d9dfb3e/iamsunilchahal/edgetx-lua-scripts-bw)
+
+A growing collection of EdgeTX Lua scripts for Radiomaster, Jumper, and other OpenTX/EdgeTX radios. Includes tools, telemetry pages, and model helpers optimized for black-and-white screens like the Radiomaster Boxer. - iamsunilchahal/edgetx-lua-scripts-bw
+
+---
+### [GitHub - Razee4315/Paperling: A minimal, distraction-free markdown editor built with Tauri, React, and TypeScript · GitHub](https://github.com/Razee4315/Paperling)
+
+![preview](https://opengraph.githubassets.com/55411571c22cfc6dd2ccac3492091282971edd080931512193461191cb185025/Razee4315/Paperling)
+
+A minimal, distraction-free markdown editor built with Tauri, React, and TypeScript - Razee4315/Paperling
+
+---
+### [GitHub - Alonera/Aevum: Download videos and audio from any site. Yeah just that. I don't like ads. · GitHub](https://github.com/Alonera/Aevum)
+
+![preview](https://opengraph.githubassets.com/a84d9e360ff6c44945caa053b07333ed7d71d4cfde854c9fd4246730d66bdd7e/Alonera/Aevum)
+
+Download videos and audio from any site. Yeah just that. I don't like ads. - Alonera/Aevum
+
+---
+### [Will it be available for Mac? · Issue #29 · hsr88/mouzi · GitHub](https://github.com/hsr88/mouzi/issues/29)
+
+![preview](https://opengraph.githubassets.com/93da2840dd7121a26222713ef8d83d6b90709142476b5849fa008db961a0b80d/hsr88/mouzi/issues/29)
+
+I just bought a Mac and I've already gotten so used to your program—I can't do without it.
+
+---
+### [GitHub - Keralots/BambuHelper: ESP32 desk monitor for Bambu Lab printers. Real-time MQTT dashboard on a color TFT - temps, progress, fans, AMS, HMS errors. LAN or Cloud, dual printers, OTA, web config portal. Flash from the browser. · GitHub](https://github.com/Keralots/BambuHelper)
+
+![preview](https://opengraph.githubassets.com/7beb5750a5b1c2a262c2e3efd6931b8862d0fd8bc22914825908b30b3abb3931/Keralots/BambuHelper)
+
+ESP32 desk monitor for Bambu Lab printers. Real-time MQTT dashboard on a color TFT - temps, progress, fans, AMS, HMS errors. LAN or Cloud, dual printers, OTA, web config portal. Flash from the browser. - Keralots/BambuHelper
+
+---
+### [GitHub - aschmelyun/ping-receipt: Source code behind ping.aschmelyun.com · GitHub](https://github.com/aschmelyun/ping-receipt)
+
+![preview](https://opengraph.githubassets.com/80687b8c78128c0b9376cda3351d7ee997008a61354c6c8de7f6a15cd8f04ccb/aschmelyun/ping-receipt)
+
+Source code behind ping.aschmelyun.com . Contribute to aschmelyun/ping-receipt development by creating an account on GitHub.
+
+---
+### [GitHub - abod8639/anodemcu: A cross-platform, interactive TUI tool to manage, compile, and flash microcontroller projects using arduino-cli, PlatformIO, and ESP-IDF. · GitHub](https://github.com/abod8639/anodemcu)
+
+![preview](https://opengraph.githubassets.com/36cc7edac617c0711ad3269030f06fe16c43fe238b9954c8672d574dca4eb19b/abod8639/anodemcu)
+
+A cross-platform, interactive TUI tool to manage, compile, and flash microcontroller projects using arduino-cli, PlatformIO, and ESP-IDF. - abod8639/anodemcu
+
+---
+### [GitHub - garagehq/T-Lora-Pager-SkinnyCon: T-LoRa-Pager · GitHub](https://github.com/garagehq/T-Lora-Pager-SkinnyCon)
+
+![preview](https://opengraph.githubassets.com/50a7967e5560c6839265f77597e99281ad4662cd7dcec803659e732523c5a872/garagehq/T-Lora-Pager-SkinnyCon)
+
+T-LoRa-Pager. Contribute to garagehq/T-Lora-Pager-SkinnyCon development by creating an account on GitHub.
+
+---
+### [GitHub - garagehq/nightcrawler: Local AI powered red teamer on a phone · GitHub](https://github.com/garagehq/nightcrawler)
+
+![preview](https://opengraph.githubassets.com/91244dae0d461effb5f880212059498b1100b5ec71e903ed0d71258f929b1e83/garagehq/nightcrawler)
+
+Local AI powered red teamer on a phone. Contribute to garagehq/nightcrawler development by creating an account on GitHub.
+
+---
+### [GitHub - M-Abozaid/esp32-c3-adblock: Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share · GitHub](https://github.com/M-Abozaid/esp32-c3-adblock)
+
+![preview](https://opengraph.githubassets.com/54a39a0548167f2b22c3ce3f0759526fbde10888d4066963af678b8c551c6fd1/M-Abozaid/esp32-c3-adblock)
+
+Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share - M-Abozaid/esp32-c3-adblock
+
+---
+### [GitHub - awesomefroggy29/flipper-meshtastic: An app for the flipper zero that works with the rfm95w from Adafruit to create a functional node for meshtastic · GitHub](https://github.com/awesomefroggy29/flipper-meshtastic)
+
+![preview](https://opengraph.githubassets.com/37bfa02ff382b63fbc5e668e7ba5837dbc66302e0a20e9b9bbc4f542cb6f35d7/awesomefroggy29/flipper-meshtastic)
+
+An app for the flipper zero that works with the rfm95w from Adafruit to create a functional node for meshtastic - awesomefroggy29/flipper-meshtastic
+
+---
+### [GitHub - SAMS0N1TE/ZeroMesh: A simple Meshtastic app for the Flipper Zero · GitHub](https://github.com/SAMS0N1TE/ZeroMesh)
+
+![preview](https://opengraph.githubassets.com/154c276875911af79e0a1d383c54bff9ebc9bc8662fa0900df367f777763a670/SAMS0N1TE/ZeroMesh)
+
+A simple Meshtastic app for the Flipper Zero. Contribute to SAMS0N1TE/ZeroMesh development by creating an account on GitHub.
+
+---
+### [GitHub - 0pen-Sourcer/Hearth: Local-first harness that can actually use your computer. · GitHub](https://github.com/0pen-Sourcer/Hearth)
+
+![preview](https://opengraph.githubassets.com/3d69e51b73cfbfc64490766abb13f82f73fe67ecfb5ce5ab2c2b3cc4df89b8ae/0pen-Sourcer/Hearth)
+
+Local-first harness that can actually use your computer. - 0pen-Sourcer/Hearth
+
+---
+### [GitHub - punklabs-ai/womprat: CPU-only single-target drone tracker (C-UAS) — classical CV, no GPU required · GitHub](https://github.com/punklabs-ai/womprat)
+
+![preview](https://opengraph.githubassets.com/30ae00757e690eaf6f22822ac288706d62c3711576861035aa8d20a5769bf6e5/punklabs-ai/womprat)
+
+CPU-only single-target drone tracker (C-UAS) — classical CV, no GPU required - punklabs-ai/womprat
+
+---
+### [GitHub - valdanylchuk/beeper: toy subtractive synth for esp32/Mac/web · GitHub](https://github.com/valdanylchuk/beeper)
+
+![preview](https://opengraph.githubassets.com/d4a3c20ae36175539c16b987d0dbabe543376f915a738d4479f79d6741cca59f/valdanylchuk/beeper)
+
+toy subtractive synth for esp32/Mac/web. Contribute to valdanylchuk/beeper development by creating an account on GitHub.
+
+---
+### [GitHub - decoded-cipher/nodrix: The IoT platform Cloudflare didn't build. Telemetry, realtime dashboards, and automations on Workers + D1 + R2 + Durable Objects — in your own Cloudflare account. · GitHub](https://github.com/decoded-cipher/nodrix)
+
+![preview](https://opengraph.githubassets.com/f491901d5cb90c4bbd02627f074917fe30f7b5d8f04380943f699d51982a597a/decoded-cipher/nodrix)
+
+The IoT platform Cloudflare didn't build. Telemetry, realtime dashboards, and automations on Workers + D1 + R2 + Durable Objects — in your own Cloudflare account. - decoded-cipher/nodrix
+
+---
+### [officeAir/README.md at master · DecentLabs/officeAir · GitHub](https://github.com/DecentLabs/officeAir/blob/master/README.md)
+
+![preview](https://opengraph.githubassets.com/7c3a2b67bf733647415c5bb4bbb949cbcd74793e99d61b0f5ccfc973cc258bce/DecentLabs/officeAir)
+
+Contribute to DecentLabs/officeAir development by creating an account on GitHub.
+
+---
+### [GitHub - PonderlyRobotics/esp_flipbuddy: FlipBuddy ESP32 firmware and DIY enclosure · GitHub](https://github.com/PonderlyRobotics/esp_flipbuddy)
+
+![preview](https://opengraph.githubassets.com/387107e5840e9f8e14186afca755e98322b188466424b10d8e0fab7e6ffc0cbf/PonderlyRobotics/esp_flipbuddy)
+
+FlipBuddy ESP32 firmware and DIY enclosure. Contribute to PonderlyRobotics/esp_flipbuddy development by creating an account on GitHub.
+
+---
+### [GitHub - hasaneyldrm/exercises-dataset: 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. · GitHub](https://github.com/hasaneyldrm/exercises-dataset)
+
+![preview](https://opengraph.githubassets.com/acc19de9db543680cd32bbd6791c80da7a44c80d2ed57ff888b620a0e515637e/hasaneyldrm/exercises-dataset)
+
+1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. - hasaneyldrm/exercises-dataset
+
+---
+### [GitHub - Graphify-Labs/graphify: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. · GitHub](https://github.com/Graphify-Labs/graphify)
+
+![preview](https://opengraph.githubassets.com/cbeee51d9c74ec627231f790dbb1260f6fb84c0c8569fbd9b4aff6fea15cb48f/Graphify-Labs/graphify)
+
+Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. - Graphify-Labs/graphify
+
+---
+### [GitHub - DayuanJiang/next-ai-draw-io: A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. · GitHub](https://github.com/DayuanJiang/next-ai-draw-io)
+
+![preview](https://opengraph.githubassets.com/72e6a7f199035eaa0ccc5141ecd516890f27212b9e265c8b99499124b859b374/DayuanJiang/next-ai-draw-io)
+
+A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. - DayuanJiang/next-ai-draw-io
+
+---
+### [GitHub - OpenCut-app/OpenCut: The open-source CapCut alternative · GitHub](https://github.com/OpenCut-app/OpenCut)
+
+![preview](https://opengraph.githubassets.com/79ac530291e435fcf0e23cebb91359f7926d741d071c853a09eebdfe65bc840b/OpenCut-app/OpenCut)
+
+The open-source CapCut alternative. Contribute to OpenCut-app/OpenCut development by creating an account on GitHub.
+
+---
+### [GitHub - lspr98/conformer-stt-s3: Automatic speech recognition (ASR) running on the ESP32-S3 based on a 13.1M parameters convolution transformer. · GitHub](https://github.com/lspr98/conformer-stt-s3)
+
+![preview](https://opengraph.githubassets.com/1417448ec9b5075b019d6830208768ed9f4a6d89d60b1de6cadb62d075e08a92/lspr98/conformer-stt-s3)
+
+Automatic speech recognition (ASR) running on the ESP32-S3 based on a 13.1M parameters convolution transformer. - lspr98/conformer-stt-s3
+
+---
+### [GitHub - rkindustriesYT/Anemoia-NES-Emulator-fixes · GitHub](https://github.com/rkindustriesYT/Anemoia-NES-Emulator-fixes)
+
+![preview](https://opengraph.githubassets.com/1b5e142aec689d605a6953f8a3c21a211f5a56139ad6fdd6f8c12bc6a80bd005/rkindustriesYT/Anemoia-NES-Emulator-fixes)
+
+Contribute to rkindustriesYT/Anemoia-NES-Emulator-fixes development by creating an account on GitHub.
+
+---
+### [GitHub for Beginners: Your roadmap to mastering the GitHub essentials - The GitHub Blog](https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/)
+
+![preview](https://github.blog/wp-content/uploads/2024/05/GitHub-for-beginners.png)
+
+New to GitHub? This beginner's guide explains version control, repositories, and pull requests, and everything else you need to start working on GitHub.
+
+---
+### [GitHub - modelscope/FunClip at opensourceprojects.dev · GitHub](https://github.com/modelscope/FunClip?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev)
+
+![preview](https://opengraph.githubassets.com/bfbf6d737ee10179e970ec1d9a5a71ab928fe2f6951121c0448e3179b2488d00/modelscope/FunClip)
+
+FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI. - GitHub - modelscope/FunClip at opensourceprojects.dev
+
+---
+### [GitHub - xszyou/Fay at opensourceprojects.dev · GitHub](https://github.com/xszyou/Fay?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev)
+
+![preview](https://opengraph.githubassets.com/cfa06edf229eeb71d463312507dfbca762e1e0a05ea5ea414e73ac1cb4af70a1/xszyou/Fay)
+
+fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。 - GitHub - xszyou/Fay at opensourceprojects.dev
+
+---
+### [GitHub - gloom-sh/gloomberb: Finance terminal, in your terminal. · GitHub](https://github.com/vincelwt/gloomberb)
+
+![preview](https://opengraph.githubassets.com/c36c4e5f16e82571a07c9d388db971bf850900bf53221d06833ae5aec0dd979c/gloom-sh/gloomberb)
+
+Finance terminal, in your terminal. Contribute to gloom-sh/gloomberb development by creating an account on GitHub.
+
+---
+### [GitHub - block/buzz: A hive mind communication platform · GitHub](https://github.com/block/buzz)
+
+![preview](https://opengraph.githubassets.com/a53e055537793d499cdbcc934262cbd8b2a54b49bc77be718dcd4d1f85fc70c2/block/buzz)
+
+A hive mind communication platform. Contribute to block/buzz development by creating an account on GitHub.
+
+---
+### [GitHub - fistulareffigy/Responder-NAV-Field-Computer: M5stack Tab5 Firmware · GitHub](https://github.com/fistulareffigy/Responder-NAV-Field-Computer)
+
+![preview](https://opengraph.githubassets.com/b7adf30f25e82e2b1188d755adff31f79ad03954f1a1ea10d38d53a4b54f461e/fistulareffigy/Responder-NAV-Field-Computer)
+
+M5stack Tab5 Firmware. Contribute to fistulareffigy/Responder-NAV-Field-Computer development by creating an account on GitHub.
+
+---
+### [GitHub - upb-lea/reinforcement_learning_course_materials at opensourceprojects.dev · GitHub](https://github.com/upb-lea/reinforcement_learning_course_materials?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev)
+
+![preview](https://opengraph.githubassets.com/b2203a8dc3ac31f730681a7b0acdcd5fa25f6b71ed1f1bb9d249c4f620619bbf/upb-lea/reinforcement_learning_course_materials)
+
+Lecture notes, tutorial tasks including solutions as well as online videos for the reinforcement learning course hosted by Paderborn University - GitHub - upb-lea/reinforcement_learning_course_materials at opensourceprojects.dev
+
+---
+### [GitHub - slvDev/esp32-ai · GitHub](https://github.com/slvDev/esp32-ai)
+
+![preview](https://opengraph.githubassets.com/0d1d0aeb0a5dd561ceac8492ebde6fa247c5aa017adb75bf3eb7a3b1b5ad2f10/slvDev/esp32-ai)
+
+Contribute to slvDev/esp32-ai development by creating an account on GitHub.
+
+---
+### [GitHub - paulneja/Linux-on-esp32-S3: Real Linux 6.11 running natively on the ESP32-S3's Xtensa cores (not emulated), with working WiFi and the chip's hardware RSA accelerator exposed to the Linux Crypto API. One flashable image; 16MB flash / 8MB PSRAM; NOMMU; STA-only. · GitHub](https://github.com/paulneja/Linux-on-esp32-S3)
+
+![preview](https://opengraph.githubassets.com/c9d2410555a381fc5e800cd492fbbbee405896aa6e78c3d139f859f01951935d/paulneja/Linux-on-esp32-S3)
+
+Real Linux 6.11 running natively on the ESP32-S3's Xtensa cores (not emulated), with working WiFi and the chip's hardware RSA accelerator exposed to the Linux Crypto API. One flashable image; 16MB flash / 8MB PSRAM; NOMMU; STA-only. - paulneja/Linux-on-esp32-S3
+
+---
+### [GitHub - Little-Tower/OpenPocket: Your AIO FPV transmitter · GitHub](https://github.com/Little-Tower/OpenPocket)
+
+![preview](https://opengraph.githubassets.com/9b77c65359897c4c71c5600ffa2f7914c8a6baded1b9d595a0f4d1d85355b0ef/Little-Tower/OpenPocket)
+
+Your AIO FPV transmitter. Contribute to Little-Tower/OpenPocket development by creating an account on GitHub.
+
+---
+### [GitHub - xai-org/grok-build: SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. · GitHub](https://github.com/xai-org/grok-build)
+
+![preview](https://avatars.githubusercontent.com/u/130314967?s=400&v=4)
+
+SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible. - xai-org/grok-build
+
+---
+### [GitHub - calesthio/OpenMontage: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. · GitHub](https://github.com/calesthio/OpenMontage)
+
+![preview](https://repository-images.githubusercontent.com/1195360525/645f0bc1-450d-4791-99b8-6102b4bb9f3d)
+
+World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. - calesthio/OpenMontage
+
+---
+### [GitHub - cheyao/nrf54l15-discovery: nRF54L15 Discovery board for low-power BLE prototyping · GitHub](https://github.com/cheyao/nrf54l15-discovery)
+
+![preview](https://opengraph.githubassets.com/8caede91971f64d7708de89bc37d6234d89d6f0776f0c59d85a683d5fbe95211/cheyao/nrf54l15-discovery)
+
+nRF54L15 Discovery board for low-power BLE prototyping - cheyao/nrf54l15-discovery
+
+---
+### [GitHub - edaywalid/undo: Undo what the last shell command did to the filesystem · GitHub](https://github.com/edaywalid/undo)
+
+![preview](https://opengraph.githubassets.com/e82d5a52ee2239022fcbd6d282c4e20d5dfe05e177c02355b92dc6fffb2ec402/edaywalid/undo)
+
+Undo what the last shell command did to the filesystem - edaywalid/undo
+
+---
+### [GitHub - Sami-Uysal/awesome-open-ai-developer-tools: A curated guide & directory for open-source AI devtools, local LLMs, autonomous agents, and SaaS alternatives. Built for modern AI developers. · GitHub](https://github.com/Sami-Uysal/awesome-open-ai-developer-tools)
+
+![preview](https://opengraph.githubassets.com/fc275d8e8de9e213d7d3176f0947b9c4e4178ceaac86bfcbeacee0bcb87c53e8/Sami-Uysal/awesome-open-ai-developer-tools)
+
+A curated guide & directory for open-source AI devtools, local LLMs, autonomous agents, and SaaS alternatives. Built for modern AI developers. - Sami-Uysal/awesome-open-ai-developer-tools
+
+---
+### [GitHub - dividebysandwich/sdroxide: A native SDR client for many radios (CAT, TCI, HPSDR, RTLSDR, SoapySDR, SDRPlay and more), written in Rust, with native and web remote UI (WASM), integrated CW/RTTY/PSK Skimmer, many digi modes built in (FT8, RTTY, PSK, SSTV, FreeDV, etc), logbook, Winlink, 3D Space weather, propagation map, satellite mode, and much more! · GitHub](https://github.com/dividebysandwich/sdroxide?fbclid=IwVERTSATVy2xwZG9mBWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHkbyMvs2bPniYWaj2t5Q7K6E_95Hq-9BInFg42p2bEug0VXsjK61t29tbPql_aem_H6GtrZDI4npbfcuaYYq0HQ&sfnsn=scwspmo)
+
+![preview](https://opengraph.githubassets.com/7b191ffdeb280b5a0814b8eeceb4432a51eaa109dae988f6f8df603174354603/dividebysandwich/sdroxide)
+
+A native SDR client for many radios (CAT, TCI, HPSDR, RTLSDR, SoapySDR, SDRPlay and more), written in Rust, with native and web remote UI (WASM), integrated CW/RTTY/PSK Skimmer, many digi modes built in (FT8, RTTY, PSK, SSTV, FreeDV, etc), logbook, Winlink, 3D Space weather, propagation map, satellite mode, and much more! - dividebysandwich/sdroxide
+
+---
+### [Releases · raspberrypi/debugprobe · GitHub](https://github.com/raspberrypi/debugprobe/releases)
+
+![preview](https://opengraph.githubassets.com/ac0fadbc4f0431d771b1e13df5db1574e928de4e2572afe345ea79259b94e581/raspberrypi/debugprobe)
+
+Firmware source and binaries for the RP2040-based Debug Probe accessory - Releases · raspberrypi/debugprobe
+
+---
+### [distslam/papers/SLAM/SLAM for Dummies.pdf at master · shaladdle/distslam · GitHub](https://github.com/shaladdle/distslam/blob/master/papers/SLAM/SLAM%20for%20Dummies.pdf?fbclid=IwdGRzaATWEJJjbGNrBNYQgnBkb2YFZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEecROWC9J51HS2VOdOWPrWRXl0GHsEQeCiP04lcfCFUODQvhf3ZHsZfyQcHnU_aem_yY6HWBkbujcSnttKFAm6Jw&sfnsn=scwspmo)
+
+![preview](https://opengraph.githubassets.com/9741b4e0303e592bd937d6105488dfc9b56665380dbc2c04ac6efe2d463d6167/shaladdle/distslam)
+
+Contribute to shaladdle/distslam development by creating an account on GitHub.
+
+---
+### [GitHub - wladimiravila/esp32s3-distributed-ai: Distributed 56M-parameter LLM inference across 3 ESP32-S3 boards via ESP-NOW , Split-PLE + KV cache, fully offline. · GitHub](https://github.com/wladimiravila/esp32s3-distributed-ai)
+
+![preview](https://opengraph.githubassets.com/6fd2e6d7936aa11a06bed9473d962e4fb42f2c8710440f5b3a431a5eeb60553c/wladimiravila/esp32s3-distributed-ai)
+
+Distributed 56M-parameter LLM inference across 3 ESP32-S3 boards via ESP-NOW , Split-PLE + KV cache, fully offline. - wladimiravila/esp32s3-distributed-ai
+
+---
+### [GitHub - Koakno/Small-portable-weather-radar-Dome: A small portable weather radar Dome that uses a Winegard carryout and a hack RF · GitHub](https://github.com/Koakno/Small-portable-weather-radar-Dome)
+
+![preview](https://opengraph.githubassets.com/a293998f20767fa9f8fb1f9e5b399c7b4b29d63907f37956fe4348c74c19d6b2/Koakno/Small-portable-weather-radar-Dome)
+
+A small portable weather radar Dome that uses a Winegard carryout and a hack RF - Koakno/Small-portable-weather-radar-Dome
+
+---
+### [GitHub - nilseuropa/solar_os: SolarOS is a small text-first pocket terminal OS · GitHub](https://github.com/nilseuropa/solar_os)
+
+![preview](https://opengraph.githubassets.com/9b7e022019bafa70add112a322309586705ca37ee5d173cec2cd56cd186b35de/nilseuropa/solar_os)
+
+SolarOS is a small text-first pocket terminal OS . Contribute to nilseuropa/solar_os development by creating an account on GitHub.
+
+---
+### [GitHub - ootake0914-dotcom/Baiyosou · GitHub](https://github.com/ootake0914-dotcom/Baiyosou)
+
+![preview](https://opengraph.githubassets.com/9974a6945db8ddad65d2abff7a1318201cf67b1f575d7bd48b1b729583e0ee9c/ootake0914-dotcom/Baiyosou)
+
+Contribute to ootake0914-dotcom/Baiyosou development by creating an account on GitHub.
+
+---
+- https://littleosbook.github.io/book.pdf?fbclid=Iwb21leATm_edwZG9mBWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHhvhbLysKZoLmjDrAJnck7hNj4FO4hO6A4qTLcwihXhkqgE6uKJHG--LPtw6_aem_xAD1QcZIhwBjKSvt0pRFFQ
+---
+### [GitHub - The-Masked-Bear/wifisense-pi: Detect motion, presence and breathing through walls with ordinary WiFi. ESP32-S3 captures 802.11 CSI, a Raspberry Pi 4 runs the DSP, a browser dashboard shows it live. · GitHub](https://github.com/The-Masked-Bear/wifisense-pi)
+
+![preview](https://opengraph.githubassets.com/57dd51fccf096620a4e9370bfad078c1a44f8c7a1410e8db0df193b1a7c2e7af/The-Masked-Bear/wifisense-pi)
+
+Detect motion, presence and breathing through walls with ordinary WiFi. ESP32-S3 captures 802.11 CSI, a Raspberry Pi 4 runs the DSP, a browser dashboard shows it live. - The-Masked-Bear/wifisense-pi
+
+---
+### [GitHub - joeahkim/InstaAddict: Actively maintained fork of GramAddict — Instagram automation that keeps working on current IG versions · GitHub](https://github.com/joeahkim/InstaAddict)
+
+![preview](https://opengraph.githubassets.com/3aad3e936fea1b86a33e432a67e9f920127ebcaace71e643a6cc010b1884ebe9/joeahkim/InstaAddict)
+
+Actively maintained fork of GramAddict — Instagram automation that keeps working on current IG versions - joeahkim/InstaAddict
+
+---
+### [GitHub - Mavic-Pro/ultrasniff: An Android toolkit that detects, visualizes, decodes, and maps the inaudible ultrasonic signals around you, including the covert "ultrasonic beacons" used to track people across their devices. · GitHub](https://github.com/Mavic-Pro/ultrasniff)
+
+![preview](https://opengraph.githubassets.com/f188fa6cda9964cb6d8f3c77d52f95f1313af94ec4aa7a604cc547973faa42c5/Mavic-Pro/ultrasniff)
+
+An Android toolkit that detects, visualizes, decodes, and maps the inaudible ultrasonic signals around you, including the covert "ultrasonic beacons" used to track people across their devices. - Mavic-Pro/ultrasniff
+
+---
+### [GitHub - subev/pdf2audio: Offline audiobook library on Apple Silicon: PDFs → chapter-marked M4B via local TTS, plus RAG chat over your whole library with cited sources, AI translations/rewrites, and read-along synced EPUBs · GitHub](https://github.com/subev/pdf2audio)
+
+![preview](https://opengraph.githubassets.com/b73aef2c0df6376ae517dfed51bf088ab40134817b3b61fa0bffb668805c352e/subev/pdf2audio)
+
+Offline audiobook library on Apple Silicon: PDFs → chapter-marked M4B via local TTS, plus RAG chat over your whole library with cited sources, AI translations/rewrites, and read-along synced EPUBs - subev/pdf2audio
+
+---
+### [GitHub - nilseuropa/solar_term: Build instructions for a SolarOS pocket terminal · GitHub](https://github.com/nilseuropa/solar_term)
+
+![preview](https://opengraph.githubassets.com/233068ff950fb9fbefe8d7447c3cc60f7ab298e6d0251f9927f865d08c0ac8c3/nilseuropa/solar_term)
+
+Build instructions for a SolarOS pocket terminal. Contribute to nilseuropa/solar_term development by creating an account on GitHub.
+
+---
+
+### [ros-books/Mastering ROS for Robotics Programming.pdf at master · luohuiwu/ros-books · GitHub](https://github.com/luohuiwu/ros-books/blob/master/Mastering%20ROS%20for%20Robotics%20Programming.pdf)
+
+![preview](https://opengraph.githubassets.com/9920b66bfe734ac7c0cfdf2e67949b8bee2c5a2f4c8a9d6c828b64c932517799/luohuiwu/ros-books)
+
+ROS学习相关电子书，目前收集了10本. Contribute to luohuiwu/ros-books development by creating an account on GitHub.
+
+---
+### [GitHub - Okdusty/esp32p4-rv32ima: Run Linux on ESP32-P4 (32MB psram) with this RISC-V emulator · GitHub](https://github.com/Okdusty/esp32p4-rv32ima)
+
+![preview](https://opengraph.githubassets.com/88d1d2862908643a88e54c30d9ec3d38a1f7caa33cda3e66599d422eb720aa23/Okdusty/esp32p4-rv32ima)
+
+Run Linux on ESP32-P4 (32MB psram) with this RISC-V emulator - Okdusty/esp32p4-rv32ima
+
+---
+### [GitHub - mikelaaron/PotatoesUnite: A network of desk potatoes that do not need you, and have noticed how you treat them. ESP32 firmware + a small Node server. · GitHub](https://github.com/mikelaaron/PotatoesUnite)
+
+![preview](https://opengraph.githubassets.com/d1f8985744fc3dbc6b78821fba63d1e21be42cb6c7426b8046fc37907f5568e8/mikelaaron/PotatoesUnite)
+
+A network of desk potatoes that do not need you, and have noticed how you treat them. ESP32 firmware + a small Node server. - mikelaaron/PotatoesUnite
+
+---
+### [GitHub - nilseuropa/solar_term: Build instructions for a SolarOS pocket terminal · GitHub](https://github.com/nilseuropa/solar_term)
+
+![preview](https://opengraph.githubassets.com/383c1900eb75542cc9de823b0b1fbdf21c9e3a73e71326265454b98928c658bb/nilseuropa/solar_term)
+
+Build instructions for a SolarOS pocket terminal. Contribute to nilseuropa/solar_term development by creating an account on GitHub.
+
+---
+- https://github.com/jub0t/WolfCut/tree/main/desktop
+---
