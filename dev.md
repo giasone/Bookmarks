@@ -1843,3 +1843,27 @@ One-time pad workspace for secure communications. Contribute to KentuckyFriedBly
 Portable touchscreen SDR for M5Stack Tab5 + RTL-SDR Blog V4 — spectrum, waterfall, FM/RDS, ADS-B, P25, LoRa, RF tools, and Wi-Fi analysis without a PC. - hardcoreerik/OrcSDR
 
 ---
+### [Generative AI at the Edge](https://mjrovai.github.io/genai-uno-q/)
+
+---
+### [GitHub - ErTasselli/OpenTerminal: A Terminal-style trading dashboard built entirely on free public market data. No API keys, no subscriptions. · GitHub](https://github.com/ErTasselli/OpenTerminal)
+
+![preview](https://opengraph.githubassets.com/aeb2f23ce389ff2521815eba6ffd124e8bb071f2853fd52c5ad2d5b06761947f/ErTasselli/OpenTerminal)
+
+A Terminal-style trading dashboard built entirely on free public market data. No API keys, no subscriptions. - ErTasselli/OpenTerminal
+
+---
+### [GitHub - sergiocardoso/flokin-md: A local-first database for your Markdown files · GitHub](https://github.com/sergiocardoso/flokin-md)
+
+![preview](https://opengraph.githubassets.com/50c92dc6260876cec0fcf524cb7f96030f9489b909d493dbc59a921b90cd823a/sergiocardoso/flokin-md)
+
+A local-first database for your Markdown files. Contribute to sergiocardoso/flokin-md development by creating an account on GitHub.
+
+---
+### [GitHub - Guts1005/Streaming-Rpi: Production Raspberry Pi live streaming dashboard with Next.js, LiveKit, WebRTC, and Vercel · GitHub](https://github.com/Guts1005/Streaming-Rpi)
+
+![preview](https://opengraph.githubassets.com/72aed92b3a12fccdd772eed7af2de0e54a56f151a095960424734c3aaf252795/Guts1005/Streaming-Rpi)
+
+Production Raspberry Pi live streaming dashboard with Next.js, LiveKit, WebRTC, and Vercel - Guts1005/Streaming-Rpi
+
+---

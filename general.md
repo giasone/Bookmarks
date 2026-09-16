@@ -475,3 +475,10 @@ A living planet shaped by code. Every GitHub commit, PR and review claims new gr
 Adding switches to a Radiomaster Pocket is easier than you think. Its main board is very similar to a Zorro, so there are spare pins you can easily wire up. ...
 
 ---
+### [GitHub - atopile/atopile: Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ · GitHub](https://share.google/pbVsVx5WC1GZOfn7w)
+
+![preview](https://opengraph.githubassets.com/6efe1cd30baf65defd776d9a752ddbfeac6ba064f361d2eef64ee76968fc548d/atopile/atopile)
+
+Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ - atopile/atopile
+
+---
