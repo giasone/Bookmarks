@@ -1895,3 +1895,17 @@ Transpile Typed Lua into 0-GC Native C for HFT and Embedded Systems - panshaogui
 A Python-based tool for designing and generating custom LED displays from pictures - MakersFunDuck/Custom-LED-Display-Generator
 
 ---
+### [GitHub - Comfy-Org/ComfyUI at opensourceprojects.dev · GitHub](https://github.com/Comfy-Org/ComfyUI?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev)
+
+![preview](https://repository-images.githubusercontent.com/589831718/8894dcc0-5f53-4f3c-97f0-50d820b7779b)
+
+The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. - GitHub - Comfy-Org/ComfyUI at opensourceprojects.dev
+
+---
+### [GitHub - ShayneP/rabbit-r1-livekit-skill: Skill to bring your own OpenAI, Gemini, or local AI models to the Rabbit R1 via LiveKit · GitHub](https://github.com/ShayneP/rabbit-r1-livekit-skill)
+
+![preview](https://opengraph.githubassets.com/9cb200cdb701fc47ced53c18dd84c8ccef6b6264d84008e37d8a9f0d99715a77/ShayneP/rabbit-r1-livekit-skill)
+
+Skill to bring your own OpenAI, Gemini, or local AI models to the Rabbit R1 via LiveKit - ShayneP/rabbit-r1-livekit-skill
+
+---

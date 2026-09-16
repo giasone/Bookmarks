@@ -484,3 +484,22 @@ Design circuit boards with code! ✨ Get software-like design reuse 🚀, valida
 ---
 - https://pip-assets.raspberrypi.com/categories/634-raspberry-pi-compute-module-4/documents/RP-008168-DS-4-cm4-datasheet.pdf
 ---
+- https://pip-assets.raspberrypi.com/categories/756-raspberry-pi-compute-module-4-io-board/documents/RP-008172-DS-1-cm4io-datasheet.pdf
+---
+### [Three Easy DIY Antennas for Beginners - #3 by abcd567 - ADS-B Flight Tracking - FlightAware Discussions](https://discussions.flightaware.com/t/three-easy-diy-antennas-for-beginners/16348/3)
+
+![preview](https://us1.discourse-cdn.com/flex019/uploads/flightaware/original/3X/9/6/964a8a2c4d5be7ec5d55aa338bbb3f813267530f.jpeg)
+
+NOTE: Those who dont want to make a DIY antenna, can order Flightaware’s antenna from Amazon 
+http://www.amazon.com/gp/product/B00WZL6WPO 
+STARTER 
+When DVB-T Dongle is purchased, a whip antenna is supplied with it. Ever…
+
+---
+### [Hermes Agent on Hetzner VPS: Self-Host Setup Guide | Nick Launches](https://nicklaunches.com/resources/dev-resources/hermes-agent-self-host-hetzner-vps-guide/?utm_source=reddit&utm_medium=social&utm_campaign=hermes-agent-vps-guide&utm_content=r-hermesagent)
+
+![preview](https://nicklaunches.com/resources/dev-resources/hermes-agent-self-host-hetzner-vps-guide/og-image.jpg)
+
+Deploy Hermes Agent (Nous Research) on a cheap Hetzner VPS. Practical setup, Telegram bot, systemd, and backups for an always-on AI agent.
+
+---
