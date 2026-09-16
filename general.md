@@ -482,3 +482,5 @@ Adding switches to a Radiomaster Pocket is easier than you think. Its main board
 Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ - atopile/atopile
 
 ---
+- https://pip-assets.raspberrypi.com/categories/634-raspberry-pi-compute-module-4/documents/RP-008168-DS-4-cm4-datasheet.pdf
+---

@@ -1867,3 +1867,31 @@ A local-first database for your Markdown files. Contribute to sergiocardoso/flok
 Production Raspberry Pi live streaming dashboard with Next.js, LiveKit, WebRTC, and Vercel - Guts1005/Streaming-Rpi
 
 ---
+### [GitHub - thetopnach/cielotrack-receiver: Detects nearby drones on a Raspberry Pi by decoding the ASTM F3411 Remote ID broadcasts they transmit over Bluetooth LE and Wi-Fi. Receives only — transmits nothing. · GitHub](https://github.com/thetopnach/cielotrack-receiver)
+
+![preview](https://opengraph.githubassets.com/7e2e9add79ab2a766d838865a7760dd1d3e14b0d33f9cd85e268d5d19a309390/thetopnach/cielotrack-receiver)
+
+Detects nearby drones on a Raspberry Pi by decoding the ASTM F3411 Remote ID broadcasts they transmit over Bluetooth LE and Wi-Fi. Receives only — transmits nothing. - thetopnach/cielotrack-receiver
+
+---
+### [GitHub - panshaogui/L2C: Transpile Typed Lua into 0-GC Native C for HFT and Embedded Systems · GitHub](https://github.com/panshaogui/L2C)
+
+![preview](https://opengraph.githubassets.com/9f98c9820285386c112f8069c6ba6f5cb8a1ae590688a6daf4f16127d704286b/panshaogui/L2C)
+
+Transpile Typed Lua into 0-GC Native C for HFT and Embedded Systems - panshaogui/L2C
+
+---
+### [GitHub - Shubhamsaboo/awesome-llm-apps: 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. · GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps)
+
+![preview](https://opengraph.githubassets.com/5e0dab5babaf1725af11cf8302b0f9a4b37b81cb7274b0ab125d51293df364cc/Shubhamsaboo/awesome-llm-apps)
+
+100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. - Shubhamsaboo/awesome-llm-apps
+
+---
+### [GitHub - MakersFunDuck/Custom-LED-Display-Generator: A Python-based tool for designing and generating custom LED displays from pictures · GitHub](https://github.com/MakersFunDuck/Custom-LED-Display-Generator)
+
+![preview](https://opengraph.githubassets.com/9cca4901fa821aa9a055447c9e3efe02385ef791c1ed76b52433937264b87cdc/MakersFunDuck/Custom-LED-Display-Generator)
+
+A Python-based tool for designing and generating custom LED displays from pictures - MakersFunDuck/Custom-LED-Display-Generator
+
+---
