@@ -1986,3 +1986,24 @@ A project-first terminal workspace — persistent, detachable terminals in a doc
 Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics' Microduck. Includes mechanical models, PCB designs, a BOM, and an assembly guide. Build it, explore its motion, and make it your own. - LuwuDynamics/xgoduck_hardware
 
 ---
+### [GitHub - madhvantyagi/Gnos: Teaching harness , help you to learn anything , It teaches like real teacher , design curriculum  , generate videos , simulations , images , pdfs , tracks your learning style etc · GitHub](https://github.com/madhvantyagi/Gnos/tree/main)
+
+![preview](https://opengraph.githubassets.com/c2a25df5f55965821fb92023657e97238850b5f86f9be0c4d59e5180d8f70d2f/madhvantyagi/Gnos)
+
+Teaching harness , help you to learn anything , It teaches like real teacher , design curriculum  , generate videos , simulations , images , pdfs , tracks your learning style etc - madhvantyagi/Gnos
+
+---
+### [GitHub - akdeb/ElatoAI: Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Companions, and Devices · GitHub](https://github.com/akdeb/ElatoAI)
+
+![preview](https://opengraph.githubassets.com/324e6da0c179f3346a88bda9224a10d22f2422b1a041780a644f5b94e36d971f/akdeb/ElatoAI)
+
+Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Companions, and Devices - akdeb/ElatoAI
+
+---
+### [GitHub - hsr88/mouzi: A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray. · GitHub](https://github.com/hsr88/mouzi)
+
+![preview](https://opengraph.githubassets.com/dda1b1c4d23b0bd0ce21c89f110195ae542611624904fe24cd59bc503588f910/hsr88/mouzi)
+
+A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray. - hsr88/mouzi
+
+---

@@ -525,3 +525,17 @@ R1CORD is a free, open-source Android app that turns a Rabbit R1 into a dedicate
 Contribute to sb-ocr/tndeck development by creating an account on GitHub.
 
 ---
+### [Termi3 - The Question-Answering Typewriter Is Back | Arduino Project Hub](https://projecthub.arduino.cc/cameroncoward/termi3-the-question-answering-typewriter-is-back-8d8913)
+
+![preview](https://projects.arduinocontent.cc/cover-images/2187293b-f0b4-41f6-8599-17b1e487214f.jpg)
+
+This is the 3rd version of what is probably my most popular project: a vintage typewriter (actually a paper terminal) that answers questions
+
+---
+### [Metal Gear Solid running natively on the ESP32-S3 | Velxio Blog](https://velxio.dev/blog/posts/metal-gear-solid-on-esp32-s3/)
+
+![preview](https://velxio.dev/blog/blog-shots/ports/mgs-esp32/blog-hero-wide.webp)
+
+This article describes a native port of Metal Gear Solid (PlayStation, 1998) to the ESP32-S3 SoC. It covers the platform layer that replaces the PlayStation hardware, memory placement, the debugging method, the main bugs, performance, and a DIY handheld that runs the game.
+
+---
