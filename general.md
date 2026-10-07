@@ -513,3 +513,15 @@ OpenMANET is an open-source Raspberry Piâbased MANET radio using Wi-Fi HaLo
 Strands is the open source toolkit for building production AI agents in Python and TypeScript: an agent harness and SDK, sandboxed shell, evals, and research labs.
 
 ---
+### [R1CORD â CHIPPWALTERS.com](https://chippwalters.com/r1cord.html)
+
+R1CORD is a free, open-source Android app that turns a Rabbit R1 into a dedicated offline audio recorder â instant access, timestamped photos, 2,000+ hours of capacity, and a path from raw conversation to a published web page. Runs on Android, not stock rabbitOS.
+
+---
+### [tndeck/enclosure at main · sb-ocr/tndeck · GitHub](https://share.google/jFwX2ksDGI9lU5Yrf)
+
+![preview](https://opengraph.githubassets.com/c9d4fed98169700c59a258322fb17692dff181bcf021d20f34887dad7d2581da/sb-ocr/tndeck)
+
+Contribute to sb-ocr/tndeck development by creating an account on GitHub.
+
+---

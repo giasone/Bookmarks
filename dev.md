@@ -1965,3 +1965,24 @@ Open-source web application for planning routes on official Swiss maps and expor
 A tiny, dependency-free, fixed-function 3D rasteriser written in modern C++17 for embedded devices (ESP32, etc) - CubeCoders/Jet
 
 ---
+### [GitHub - openinfrared/database: The OpenInfrared Database · GitHub](https://github.com/openinfrared/database)
+
+![preview](https://opengraph.githubassets.com/53affae21e436f3167d6f149f94ac59625b295ebd061318812edb1fcc57d2e22/openinfrared/database)
+
+The OpenInfrared Database. Contribute to openinfrared/database development by creating an account on GitHub.
+
+---
+### [GitHub - Bidthedog/throng: A project-first terminal workspace — persistent, detachable terminals in a dockable layout, with a live file tree and code editor. · GitHub](https://github.com/Bidthedog/throng)
+
+![preview](https://opengraph.githubassets.com/cdd6b35639c15f5481d77d3ec8068f54c98f28db9ae4a8b82d9ca5723e8da248/Bidthedog/throng)
+
+A project-first terminal workspace — persistent, detachable terminals in a dockable layout, with a live file tree and code editor. - Bidthedog/throng
+
+---
+### [GitHub - LuwuDynamics/xgoduck_hardware: Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics' Microduck. Includes mechanical models, PCB designs, a BOM, and an assembly guide. Build it, explore its motion, and make it your own. · GitHub](https://github.com/LuwuDynamics/xgoduck_hardware)
+
+![preview](https://opengraph.githubassets.com/a57dd4f1a1337f24e0f2fb7804cdc79e9e74c01f4375eede16b29f3fe449e7e4/LuwuDynamics/xgoduck_hardware)
+
+Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics' Microduck. Includes mechanical models, PCB designs, a BOM, and an assembly guide. Build it, explore its motion, and make it your own. - LuwuDynamics/xgoduck_hardware
+
+---
