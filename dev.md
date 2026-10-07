@@ -2036,3 +2036,38 @@ TinyDesk: a windowed text desktop for microcontrollers, drawn in a compatible UT
 Collection of existing 3d scanner designs and 3d printable files - OpenScan-Design/files/Mini/V1 at main · OpenScan-org/OpenScan-Design
 
 ---
+### [GitHub - alexsprojects0/Pen-plotter: A 180mm × 106.5mm pen plotter driven by four 28BYJ-48 stepper motors. It can run on any microcontroller with at least 12 output pins, but all my code is written for the Arduino Uno. · GitHub](https://github.com/alexsprojects0/Pen-plotter?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaf0tymhGT4kno1N_ZVix6V8tpRU4aUvkYALhhVmsdYbSqXj7rLpqp7yhbm74Q_aem_gDvKGnnPSF4yNRVK1QKsMg)
+
+![preview](https://opengraph.githubassets.com/996aad2b76ff00cf2170c59f782b3824a748128b436f752ced9156db14b422c8/alexsprojects0/Pen-plotter)
+
+A 180mm × 106.5mm pen plotter driven by four 28BYJ-48 stepper motors. It can run on any microcontroller with at least 12 output pins, but all my code is written for the Arduino Uno. - alexsprojects0/Pen-plotter
+
+---
+### [GitHub - lokutor-ai/oido: Oído: open-vocabulary speech recognition that fits in a $5 ESP32-S3. 3.7% LibriSpeech WER, no cloud, no NPU. · GitHub](https://github.com/lokutor-ai/oido)
+
+![preview](https://opengraph.githubassets.com/49ad3cd4a2662ff954a346ef2d5b16ef0c343e94df83dad3b4ba9f7ec24050e8/lokutor-ai/oido)
+
+Oído: open-vocabulary speech recognition that fits in a $5 ESP32-S3. 3.7% LibriSpeech WER, no cloud, no NPU. - lokutor-ai/oido
+
+---
+### [GitHub - DmitriyShalagurov/STERN_OS-FOR-CYBERDECK---BARKLEYS-POCKET-TIN-: I Built a Pocket Cyberdeck Inside an Barkleys Tin · GitHub](https://github.com/DmitriyShalagurov/STERN_OS-FOR-CYBERDECK---BARKLEYS-POCKET-TIN-)
+
+![preview](https://opengraph.githubassets.com/189e48be7d3704c58a828ad3761c3a83b2e786de078e92c34a35c8a1274f499f/DmitriyShalagurov/STERN_OS-FOR-CYBERDECK---BARKLEYS-POCKET-TIN-)
+
+I Built a Pocket Cyberdeck Inside an Barkleys Tin. Contribute to DmitriyShalagurov/STERN_OS-FOR-CYBERDECK---BARKLEYS-POCKET-TIN- development by creating an account on GitHub.
+
+---
+### [GitHub - OffGridPete/Fieldwatch: Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT. · GitHub](https://github.com/OffGridPete/Fieldwatch)
+
+![preview](https://opengraph.githubassets.com/9fe6cdd1c5f058b491c5f3d622a61eef187a3bd0ad1fbbc2ad4b858ebc8595b3/OffGridPete/Fieldwatch)
+
+Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT. - OffGridPete/Fieldwatch
+
+---
+### [GitHub - KingKongRobotics/jumper: 🦀 Jumper — an crab robot. · GitHub](https://github.com/KingKongRobotics/jumper)
+
+![preview](https://opengraph.githubassets.com/c84c054bd614bfc1926705fc5340025529d1c0934fa3fb91dce06ba160584082/KingKongRobotics/jumper)
+
+🦀 Jumper — an crab robot. Contribute to KingKongRobotics/jumper development by creating an account on GitHub.
+
+---
