@@ -508,3 +508,8 @@ Deploy Hermes Agent (Nous Research) on a cheap Hetzner VPS. Practical setup, Tel
 OpenMANET is an open-source Raspberry Piâbased MANET radio using Wi-Fi HaLow (Morse Micro).
 
 ---
+### [Strands Agents | The open source toolkit for production AI agents](https://strandsagents.com/?trk=6e18ac0d-36b6-45c5-9565-2cc59a7435ea&sc_channel=psm)
+
+Strands is the open source toolkit for building production AI agents in Python and TypeScript: an agent harness and SDK, sandboxed shell, evals, and research labs.
+
+---

@@ -1937,3 +1937,31 @@ Run open-source Cardputer apps on Android: plug an ESP32-S3 over USB-OTG and the
 An Open Source Desktop Case Design for Nvidia's Jetson Orin Super Developer Kit.   - GitHub - crussella0129/Jetson-Orin-Nano-Super-Case: An Open Source Desktop Case Design for Nvidia's Jetson Orin Super Developer Kit.
 
 ---
+### [GitHub - signalscircuits/sudopi-Zer0: Open Source  Raspberry pi Zero Handheld Terminal Device · GitHub](https://github.com/signalscircuits/sudopi-Zer0)
+
+![preview](https://opengraph.githubassets.com/064e07bb8b839a239189095dfd42a890020bdc3a6709906847034d80d30ff14b/signalscircuits/sudopi-Zer0)
+
+Open Source  Raspberry pi Zero Handheld Terminal Device  - GitHub - signalscircuits/sudopi-Zer0: Open Source  Raspberry pi Zero Handheld Terminal Device
+
+---
+### [GitHub - SethRobinson/Patchy: Open-source image editor focused on PSD compatibility and workflows familiar to Adobe Photoshop users. · GitHub](https://github.com/SethRobinson/Patchy)
+
+![preview](https://opengraph.githubassets.com/05b9dfa5fda338f221f747f119bbbd7d4353d13162daf0d4e21af57ca6bba5db/SethRobinson/Patchy)
+
+Open-source image editor focused on PSD compatibility and workflows familiar to Adobe Photoshop users. - SethRobinson/Patchy
+
+---
+### [GitHub - egofree71/via-helvetica: Open-source web application for planning routes on official Swiss maps and exporting them as GPX files. · GitHub](https://github.com/egofree71/via-helvetica)
+
+![preview](https://opengraph.githubassets.com/8a0c339daca295fe36833d0ce092c730228bef4d75b985e0fc18a53d7069e9d5/egofree71/via-helvetica)
+
+Open-source web application for planning routes on official Swiss maps and exporting them as GPX files. - egofree71/via-helvetica
+
+---
+### [GitHub - CubeCoders/Jet: A tiny, dependency-free, fixed-function 3D rasteriser written in modern C++17 for embedded devices (ESP32, etc) · GitHub](https://github.com/cubecoders/jet)
+
+![preview](https://opengraph.githubassets.com/2aee183ecf82109f28dc659a405f0cdcd46058a988121c8f2d8648284f5ef3bd/CubeCoders/Jet)
+
+A tiny, dependency-free, fixed-function 3D rasteriser written in modern C++17 for embedded devices (ESP32, etc) - CubeCoders/Jet
+
+---
