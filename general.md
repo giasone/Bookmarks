@@ -503,3 +503,8 @@ When DVB-T Dongle is purchased, a whip antenna is supplied with it. Ever…
 Deploy Hermes Agent (Nous Research) on a cheap Hetzner VPS. Practical setup, Telegram bot, systemd, and backups for an always-on AI agent.
 
 ---
+### [OpenMANET](https://share.google/Y0bO57vagjeZUPySh)
+
+OpenMANET is an open-source Raspberry Piâbased MANET radio using Wi-Fi HaLow (Morse Micro).
+
+---

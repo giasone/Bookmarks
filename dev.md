@@ -1909,3 +1909,31 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 Skill to bring your own OpenAI, Gemini, or local AI models to the Rabbit R1 via LiveKit - ShayneP/rabbit-r1-livekit-skill
 
 ---
+### [GitHub - i12bp8/TagTinker: Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl · GitHub](https://github.com/i12bp8/TagTinker)
+
+![preview](https://opengraph.githubassets.com/2ee41755846f96768fade7f79b1ece7c5aef4ac7994327dc7b5bad7647c9a955/i12bp8/TagTinker)
+
+Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl - i12bp8/TagTinker
+
+---
+### [OpenZiti · GitHub](https://github.com/openziti)
+
+![preview](https://avatars.githubusercontent.com/u/65675559?s=280&v=4)
+
+OpenZiti is a platform for building secure, zero-trust connectivity into any application or network. - OpenZiti
+
+---
+### [GitHub - fcavalcantirj/droidputter: Run open-source Cardputer apps on Android: plug an ESP32-S3 over USB-OTG and the phone is the screen, keyboard, GPS and flasher. Apps are rebuilt on demand from GitHub against a display/keyboard shim. · GitHub](https://github.com/fcavalcantirj/droidputter)
+
+![preview](https://opengraph.githubassets.com/2ad56f5f248999644fa2b13914adab365b3df4345d3b253be2982603eb81a7ae/fcavalcantirj/droidputter)
+
+Run open-source Cardputer apps on Android: plug an ESP32-S3 over USB-OTG and the phone is the screen, keyboard, GPS and flasher. Apps are rebuilt on demand from GitHub against a display/keyboard shim. - fcavalcantirj/droidputter
+
+---
+### [GitHub - crussella0129/Jetson-Orin-Nano-Super-Case: An Open Source Desktop Case Design for Nvidia's Jetson Orin Super Developer Kit. · GitHub](https://github.com/crussella0129/Jetson-Orin-Nano-Super-Case)
+
+![preview](https://opengraph.githubassets.com/5767c602ea261a0ee011bc53ac1fad301cae400ee953d54a6f2b18354242b58f/crussella0129/Jetson-Orin-Nano-Super-Case)
+
+An Open Source Desktop Case Design for Nvidia's Jetson Orin Super Developer Kit.   - GitHub - crussella0129/Jetson-Orin-Nano-Super-Case: An Open Source Desktop Case Design for Nvidia's Jetson Orin Super Developer Kit.
+
+---
