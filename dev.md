@@ -2007,3 +2007,32 @@ Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and E
 A free, privacy-first automatic file organizer that quietly sorts your Downloads folder from the system tray. - hsr88/mouzi
 
 ---
+### [GitHub - mulgadc/spinifex: Open-source, AWS-compatible cloud for bare-metal, edge and on-premise. Run existing AWS CLI, SDK and Terraform workflows against EC2, EBS, S3, VPC, IAM, EKS and RDS on your own servers. · GitHub](https://github.com/mulgadc/spinifex)
+
+![preview](https://repository-images.githubusercontent.com/922863322/c634baa6-4da4-4e8b-8596-719da38fd354)
+
+Open-source, AWS-compatible cloud for bare-metal, edge and on-premise. Run existing AWS CLI, SDK and Terraform workflows against EC2, EBS, S3, VPC, IAM, EKS and RDS on your own servers. - mulgadc/spinifex
+
+---
+### [GitHub - klipitkas/tunnl.gg: A minimal SSH tunneling service. Expose your local apps to the internet with a single command. · GitHub](https://github.com/klipitkas/tunnl.gg)
+
+![preview](https://repository-images.githubusercontent.com/1109734874/209f29dd-2627-45e4-a71e-9b101ac71ba2)
+
+A minimal SSH tunneling service. Expose your local apps to the internet with a single command. - klipitkas/tunnl.gg
+
+---
+### [TinyDesk documentation](https://schikani.github.io/tinydesk-docs/#/)
+
+TinyDesk: a windowed text desktop for microcontrollers, drawn in a compatible UTF-8 terminal, with ports for ESP32 boards, Linux and Windows
+
+---
+### [OpenScan](https://openscan-org.github.io/OpenScan-Doc/?fbclid=IwVERTSAUri55leHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHjPSsmV_LxJc7EzmkOKM0kTLv9mMK0a8KPp2qve6scQDk26XvOWp0FYIFPhB_aem_4F5aCU12tnv7zJDv4Os_CA&sfnsn=scwspmo)
+
+---
+### [OpenScan-Design/files/Mini/V1 at main · OpenScan-org/OpenScan-Design · GitHub](https://github.com/OpenScan-org/OpenScan-Design/tree/main/files/Mini/V1?fbclid=IwVERTSAUri8RleHRuA2FlbQIxMABwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHp2Vc3ilo22kluLCmTzgvxfx7eOzye52069AF38S66ttauVHh_5kP6NXpLNr_aem_NVAE_BJ9L0J5ArbT8_b18A&sfnsn=scwspmo)
+
+![preview](https://opengraph.githubassets.com/1a4b61da1b69f2016e4d9007bf4b7f817e4feac6f54f232f1be07fb4b6e59a54/OpenScan-org/OpenScan-Design)
+
+Collection of existing 3d scanner designs and 3d printable files - OpenScan-Design/files/Mini/V1 at main · OpenScan-org/OpenScan-Design
+
+---
